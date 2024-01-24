@@ -42,6 +42,7 @@ class Bridge:
             )
 
             success_tx = self.client.verif_tx(tx)
+            time.sleep(2)
 
             if success_tx:
                 log.info(f"https://bscscan.com/tx/{tx.hex()}")
@@ -51,13 +52,16 @@ class Bridge:
                 print()
             else:
                 log.error(f'{self.client.address} | bridge error to opBNB')
+                time.sleep(2)
+                print()
         except Exception as err:
             log.error(f'{self.client.address} | bridge error to opBNB: {type(err).__name__} {err}')
 
 
 def bridge_main(key):
+    bridge_amount_bnb = random.uniform(MIN_AMOUNT_OPBNB, MAX_AMOUNT_OPBNB)
     client = Client(private_key=key, network=BSC)
     client.w3.middleware_onion.inject(geth_poa_middleware, layer=0)
     bridge_instance = Bridge(client=client)
-    bridge_instance.bridge_to_opBNB(value=amount_bnb)
+    bridge_instance.bridge_to_opBNB(value=bridge_amount_bnb)
 

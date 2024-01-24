@@ -4,6 +4,7 @@ from os.path import exists
 from config import *
 from utils import *
 from bridge_on_opbnb import bridge_main
+from okx_withdrawal_bnb import make_withdrawal
 
 
 def main():
@@ -36,7 +37,21 @@ def main():
     print()
 
     if software_method == 1:
-        log.warning("In process development...")
+        for to_address in address_list:
+            if is_account_passed('data/success_send.txt', to_address):
+                if make_withdrawal(to_address):
+                    save_data('data/success_send.txt', to_address)
+                    time.sleep(1)
+                    print()
+            else:
+                log.info(f"{to_address} | Account already use")
+                time.sleep(1)
+                print()
+                log.info("Go to the next account")
+                time.sleep(1)
+                print()
+                continue
+            sleeping()
 
     elif software_method == 2:
         for private_key in private_keys_list:
@@ -44,9 +59,12 @@ def main():
                 bridge_main(private_key)
             else:
                 log.info("Account already use")
+                time.sleep(1)
                 print()
                 log.info("Go to the next account")
+                print()
                 continue
+            sleeping()
 
     else:
         log.error("Unknown method, choose 1 or 2!")
