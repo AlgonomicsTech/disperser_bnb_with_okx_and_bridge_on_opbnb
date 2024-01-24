@@ -12,7 +12,7 @@ def read_json(path: str, encoding: Optional[str] = None) -> list | dict:
 
 def sleeping():
     x = random.randint(min_time_sleep, max_time_sleep)
-    for _ in tqdm(range(x), desc='Sleeping', bar_format='{l_bar}%s{bar}%s{r_bar}' % ('\033[92m', '\033[0m')):
+    for _ in tqdm(range(x), desc='Sleeping', bar_format='{l_bar}%s{bar}%s{r_bar}' % ('\033[0m', '\033[0m')):
         time.sleep(1)
 
 

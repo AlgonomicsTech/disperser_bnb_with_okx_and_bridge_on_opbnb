@@ -52,6 +52,9 @@ def main():
                 print()
                 continue
             sleeping()
+            print()
+            print()
+
 
     elif software_method == 2:
         for private_key in private_keys_list:
