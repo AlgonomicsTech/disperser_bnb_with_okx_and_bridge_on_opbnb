@@ -1,0 +1,925 @@
+2024-01-23 | 15:22:16.724 | SUCCESS 	| 31:main | Downloaded successfully 0 address wallets | 0 keys wallets
+2024-01-23 | 15:22:16.724 | WARNING 	| 32:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-23 | 15:22:33.807 | WARNING 	| 41:main | In process development...
+2024-01-23 | 15:22:33.807 | SUCCESS 	| 51:main | Work completed successfully
+2024-01-23 | 15:22:33.808 | DEBUG 	| 52:main | Press Enter to exit...
+2024-01-23 | 15:23:09.951 | SUCCESS 	| 31:main | Downloaded successfully 0 address wallets | 0 keys wallets
+2024-01-23 | 15:23:09.951 | INFO 	| 32:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-23 | 15:24:26.404 | SUCCESS 	| 31:main | Downloaded successfully 0 address wallets | 1 keys wallets
+2024-01-23 | 15:24:26.410 | INFO 	| 32:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-23 | 15:24:33.217 | INFO 	| 61:bridge_main | transaction: 1/1
+2024-01-23 | 15:27:43.185 | SUCCESS 	| 31:main | Downloaded successfully 0 address wallets | 1 keys wallets
+2024-01-23 | 15:27:43.186 | INFO 	| 32:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-23 | 15:27:47.792 | INFO 	| 61:bridge_main | transaction: 1/1
+2024-01-23 | 15:27:50.481 | ERROR 	| 48:bridge_to_opBNB | 0xbDb61357e4942D6F258699f9f420E8cECc88796a | bridge error to opBNB
+2024-01-23 | 15:28:38.527 | SUCCESS 	| 51:main | Work completed successfully
+2024-01-23 | 15:28:38.528 | DEBUG 	| 52:main | Press Enter to exit...
+2024-01-23 | 15:58:11.176 | SUCCESS 	| 29:main | Downloaded successfully 1 address wallets | 1 keys wallets
+2024-01-23 | 15:58:11.177 | INFO 	| 30:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-23 | 15:58:18.672 | ERROR 	| 48:bridge_to_opBNB | 0xbDb61357e4942D6F258699f9f420E8cECc88796a | bridge error to opBNB
+2024-01-23 | 15:58:18.673 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-23 | 15:58:18.673 | SUCCESS 	| 57:main | Work completed successfully
+2024-01-23 | 15:58:18.673 | DEBUG 	| 58:main | Press Enter to exit...
+2024-01-23 | 16:01:26.089 | SUCCESS 	| 29:main | Downloaded successfully 1 address wallets | 1 keys wallets
+2024-01-23 | 16:01:26.090 | INFO 	| 30:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-23 | 16:01:35.861 | ERROR 	| 49:bridge_to_opBNB | 0xbDb61357e4942D6F258699f9f420E8cECc88796a | bridge error to opBNB
+2024-01-23 | 16:01:35.862 | SUCCESS 	| 56:main | Work completed successfully
+2024-01-23 | 16:01:35.862 | DEBUG 	| 57:main | Press Enter to exit...
+2024-01-23 | 16:05:26.571 | SUCCESS 	| 29:main | Downloaded successfully 1 address wallets | 1 keys wallets
+2024-01-23 | 16:05:26.572 | INFO 	| 30:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-23 | 16:05:40.777 | INFO 	| 45:bridge_to_opBNB | https://opbnbscan.com/tx/0x8baeff0bc404ff717ec2364e14289fca0de0e27f855d863f2d46eaeb26e398e4
+2024-01-23 | 16:05:40.778 | SUCCESS 	| 46:bridge_to_opBNB | 0xbDb61357e4942D6F258699f9f420E8cECc88796a | Successfully bridge to opBNB
+2024-01-23 | 16:05:40.779 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-23 | 16:05:40.779 | SUCCESS 	| 56:main | Work completed successfully
+2024-01-23 | 16:05:40.780 | DEBUG 	| 57:main | Press Enter to exit...
+2024-01-24 | 11:09:24.621 | ERROR 	| 21:handle_api_response | 0xbDb61357e4942D6F258699f9f420E8cECc88796a | 5 |  Insufficient funds on the balance sheet: Insufficient balance
+2024-01-24 | 11:12:18.446 | ERROR 	| 24:handle_api_response | 0xbDb61357e4942D6F258699f9f420E8cECc88796a | 5 | Insufficient balance
+2024-01-24 | 11:13:23.738 | ERROR 	| 24:handle_api_response | 0xbDb61357e4942D6F258699f9f420E8cECc88796a | 0.002 | Invalid OK-ACCESS-KEY
+2024-01-24 | 11:17:34.526 | ERROR 	| 18:handle_make_withdrawal | 0xbDb61357e4942D6F258699f9f420E8cECc88796a | 0.002 BNB | Invalid OK-ACCESS-KEY | 50111
+2024-01-24 | 11:18:16.008 | ERROR 	| 18:handle_make_withdrawal | 0xbDb61357e4942D6F258699f9f420E8cECc88796a | 0.002 BNB | Invalid OK-ACCESS-KEY | error code: 50111
+2024-01-24 | 11:30:31.379 | SUCCESS 	| 15:handle_make_withdrawal | 0xbDb61357e4942D6F258699f9f420E8cECc88796a | 0.0030991140751976416 BNB | successfully withdrawal
+2024-01-24 | 11:31:27.599 | SUCCESS 	| 15:handle_make_withdrawal | 0xbDb61357e4942D6F258699f9f420E8cECc88796a | 0.0033398870047668338 BNB | successfully withdrawal
+2024-01-24 | 11:31:28.316 | SUCCESS 	| 15:handle_make_withdrawal | 0xbDb61357e4942D6F258699f9f420E8cECc88796a | 0.0033398870047668338 BNB | successfully withdrawal
+2024-01-24 | 12:32:46.804 | SUCCESS 	| 30:main | Downloaded successfully 7 address wallets | 6 keys wallets
+2024-01-24 | 12:32:46.804 | INFO 	| 31:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-24 | 12:33:04.324 | SUCCESS 	| 15:handle_make_withdrawal | 0xbDb61357e4942D6F258699f9f420E8cECc88796a | 0.0021439748965959423 BNB | successfully withdrawal
+2024-01-24 | 12:33:04.325 | INFO 	| 30:save_data | 0xbDb61357e4942D6F258699f9f420E8cECc88796a| save in data/success_send.txt
+2024-01-24 | 12:33:04.831 | ERROR 	| 18:handle_make_withdrawal | 0x5DC5A81f678849cDD8169Bf19cF60F6B606Bf347 | 0.0023074520158331375 BNB | Withdrawal address is not allowlisted for verification exemption | error code: 58207
+2024-01-24 | 12:33:07.183 | SUCCESS 	| 15:handle_make_withdrawal | 0x2871f32A1917d7d12A5239F9c88Fca2F10A40F99 | 0.002374753665422312 BNB | successfully withdrawal
+2024-01-24 | 12:33:07.184 | INFO 	| 30:save_data | 0x2871f32A1917d7d12A5239F9c88Fca2F10A40F99| save in data/success_send.txt
+2024-01-24 | 12:33:09.443 | SUCCESS 	| 15:handle_make_withdrawal | 0xe9C4F9CbF305A574F5E3D44Dc55F75030c48397D | 0.002081189303654798 BNB | successfully withdrawal
+2024-01-24 | 12:33:09.444 | INFO 	| 30:save_data | 0xe9C4F9CbF305A574F5E3D44Dc55F75030c48397D| save in data/success_send.txt
+2024-01-24 | 12:33:11.944 | SUCCESS 	| 15:handle_make_withdrawal | 0x3749cc32ed331E99065Afdf041DD6fa844206753 | 0.002475000743918702 BNB | successfully withdrawal
+2024-01-24 | 12:33:11.945 | INFO 	| 30:save_data | 0x3749cc32ed331E99065Afdf041DD6fa844206753| save in data/success_send.txt
+2024-01-24 | 12:33:14.579 | SUCCESS 	| 15:handle_make_withdrawal | 0xDf46266716E9f51971218a65f94539f138B75bf6 | 0.0020823543864121 BNB | successfully withdrawal
+2024-01-24 | 12:33:14.580 | INFO 	| 30:save_data | 0xDf46266716E9f51971218a65f94539f138B75bf6| save in data/success_send.txt
+2024-01-24 | 12:33:16.955 | SUCCESS 	| 15:handle_make_withdrawal | 0xaa5cE0441ef21CEF05Ec58653e3Ce61b75fC10bA | 0.002451265589048269 BNB | successfully withdrawal
+2024-01-24 | 12:33:16.956 | INFO 	| 30:save_data | 0xaa5cE0441ef21CEF05Ec58653e3Ce61b75fC10bA| save in data/success_send.txt
+2024-01-24 | 12:33:16.957 | SUCCESS 	| 65:main | Work completed successfully
+2024-01-24 | 12:33:16.957 | DEBUG 	| 66:main | Press Enter to exit...
+2024-01-24 | 12:36:44.305 | SUCCESS 	| 30:main | Downloaded successfully 6 address wallets | 6 keys wallets
+2024-01-24 | 12:36:44.305 | INFO 	| 31:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-24 | 12:36:56.722 | INFO 	| 47:bridge_to_opBNB | https://bscscan.com/tx/0x91e6dddb75444edd18c442cd58bcc08f34ffdf652b3e435398d0ea826e55424b
+2024-01-24 | 12:36:56.722 | SUCCESS 	| 48:bridge_to_opBNB | 0xbDb61357e4942D6F258699f9f420E8cECc88796a | Successfully bridge to opBNB
+2024-01-24 | 12:36:56.723 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 12:37:00.669 | ERROR 	| 53:bridge_to_opBNB | 0xe9C4F9CbF305A574F5E3D44Dc55F75030c48397D | bridge error to opBNB
+2024-01-24 | 12:37:05.890 | INFO 	| 47:bridge_to_opBNB | https://bscscan.com/tx/0xef4b000f6926af37f8484d817fdc62988f7aed617bc18bfa2f8c29d6ee8e0008
+2024-01-24 | 12:37:05.890 | SUCCESS 	| 48:bridge_to_opBNB | 0x3749cc32ed331E99065Afdf041DD6fa844206753 | Successfully bridge to opBNB
+2024-01-24 | 12:37:05.891 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 12:37:12.897 | ERROR 	| 53:bridge_to_opBNB | 0xDf46266716E9f51971218a65f94539f138B75bf6 | bridge error to opBNB
+2024-01-24 | 12:37:17.614 | INFO 	| 47:bridge_to_opBNB | https://bscscan.com/tx/0xbe02b049fef8808f3741bb8839eb001287f915f092d5f834b8986b3d1eb66e68
+2024-01-24 | 12:37:17.614 | SUCCESS 	| 48:bridge_to_opBNB | 0xaa5cE0441ef21CEF05Ec58653e3Ce61b75fC10bA | Successfully bridge to opBNB
+2024-01-24 | 12:37:17.615 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 12:37:21.556 | ERROR 	| 53:bridge_to_opBNB | 0x9143062B2EDd14BbfB39F2d66cE2bE57Db54fE7b | bridge error to opBNB
+2024-01-24 | 12:37:21.556 | SUCCESS 	| 68:main | Work completed successfully
+2024-01-24 | 12:37:21.556 | DEBUG 	| 69:main | Press Enter to exit...
+2024-01-24 | 12:41:09.410 | SUCCESS 	| 30:main | Downloaded successfully 6 address wallets | 6 keys wallets
+2024-01-24 | 12:41:09.411 | INFO 	| 31:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-24 | 12:41:14.194 | INFO 	| 58:main | Account already use
+2024-01-24 | 12:41:14.195 | INFO 	| 60:main | Go to the next account
+2024-01-24 | 12:41:18.579 | ERROR 	| 54:bridge_to_opBNB | 0xe9C4F9CbF305A574F5E3D44Dc55F75030c48397D | bridge error to opBNB
+2024-01-24 | 12:41:20.580 | INFO 	| 58:main | Account already use
+2024-01-24 | 12:41:20.580 | INFO 	| 60:main | Go to the next account
+2024-01-24 | 12:41:24.313 | ERROR 	| 54:bridge_to_opBNB | 0xDf46266716E9f51971218a65f94539f138B75bf6 | bridge error to opBNB
+2024-01-24 | 12:41:26.314 | INFO 	| 58:main | Account already use
+2024-01-24 | 12:41:26.315 | INFO 	| 60:main | Go to the next account
+2024-01-24 | 12:41:30.355 | ERROR 	| 54:bridge_to_opBNB | 0x9143062B2EDd14BbfB39F2d66cE2bE57Db54fE7b | bridge error to opBNB
+2024-01-24 | 12:41:32.357 | SUCCESS 	| 68:main | Work completed successfully
+2024-01-24 | 12:41:32.357 | DEBUG 	| 69:main | Press Enter to exit...
+2024-01-24 | 12:45:37.807 | SUCCESS 	| 30:main | Downloaded successfully 10 address wallets | 11 keys wallets
+2024-01-24 | 12:45:37.807 | INFO 	| 31:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-24 | 12:45:47.941 | INFO 	| 47:main | 0xbDb61357e4942D6F258699f9f420E8cECc88796a | Account already use
+2024-01-24 | 12:45:48.943 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 12:45:49.944 | INFO 	| 47:main | 0x2871f32A1917d7d12A5239F9c88Fca2F10A40F99 | Account already use
+2024-01-24 | 12:45:50.948 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 12:45:51.948 | INFO 	| 47:main | 0xe9C4F9CbF305A574F5E3D44Dc55F75030c48397D | Account already use
+2024-01-24 | 12:45:52.949 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 12:45:53.950 | INFO 	| 47:main | 0x3749cc32ed331E99065Afdf041DD6fa844206753 | Account already use
+2024-01-24 | 12:45:54.952 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 12:45:55.953 | INFO 	| 47:main | 0xDf46266716E9f51971218a65f94539f138B75bf6 | Account already use
+2024-01-24 | 12:45:56.954 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 12:45:57.955 | INFO 	| 47:main | 0xaa5cE0441ef21CEF05Ec58653e3Ce61b75fC10bA | Account already use
+2024-01-24 | 12:45:58.956 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 12:46:02.600 | SUCCESS 	| 15:handle_make_withdrawal | 0x9143062B2EDd14BbfB39F2d66cE2bE57Db54fE7b | 0.0022600566149005383 BNB | successfully withdrawal
+2024-01-24 | 12:46:02.601 | INFO 	| 30:save_data | 0x9143062B2EDd14BbfB39F2d66cE2bE57Db54fE7b| save in data/success_send.txt
+2024-01-24 | 12:46:06.222 | SUCCESS 	| 15:handle_make_withdrawal | 0x8372D88005Ec5A01171c6232EF112892f1b9A95C | 0.002185752961517275 BNB | successfully withdrawal
+2024-01-24 | 12:46:06.223 | INFO 	| 30:save_data | 0x8372D88005Ec5A01171c6232EF112892f1b9A95C| save in data/success_send.txt
+2024-01-24 | 12:46:09.856 | SUCCESS 	| 15:handle_make_withdrawal | 0xa16F1Eae605E52865c7ADE1D24D7F5530Eb08038 | 0.0021634979362461526 BNB | successfully withdrawal
+2024-01-24 | 12:46:09.857 | INFO 	| 30:save_data | 0xa16F1Eae605E52865c7ADE1D24D7F5530Eb08038| save in data/success_send.txt
+2024-01-24 | 12:46:13.244 | SUCCESS 	| 15:handle_make_withdrawal | 0x7885eeFA60128411348e2D1F416BCf7d2bb506B0 | 0.0024320791440415957 BNB | successfully withdrawal
+2024-01-24 | 12:46:13.245 | INFO 	| 30:save_data | 0x7885eeFA60128411348e2D1F416BCf7d2bb506B0| save in data/success_send.txt
+2024-01-24 | 12:46:14.246 | SUCCESS 	| 72:main | Work completed successfully
+2024-01-24 | 12:46:14.246 | DEBUG 	| 73:main | Press Enter to exit...
+2024-01-24 | 12:47:03.543 | SUCCESS 	| 30:main | Downloaded successfully 10 address wallets | 11 keys wallets
+2024-01-24 | 12:47:03.544 | INFO 	| 31:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-24 | 12:47:10.868 | INFO 	| 60:main | Account already use
+2024-01-24 | 12:47:10.869 | INFO 	| 62:main | Go to the next account
+2024-01-24 | 12:47:15.973 | ERROR 	| 54:bridge_to_opBNB | 0xe9C4F9CbF305A574F5E3D44Dc55F75030c48397D | bridge error to opBNB
+2024-01-24 | 12:47:17.974 | INFO 	| 60:main | Account already use
+2024-01-24 | 12:47:17.975 | INFO 	| 62:main | Go to the next account
+2024-01-24 | 12:47:22.321 | ERROR 	| 54:bridge_to_opBNB | 0xDf46266716E9f51971218a65f94539f138B75bf6 | bridge error to opBNB
+2024-01-24 | 12:47:24.323 | INFO 	| 60:main | Account already use
+2024-01-24 | 12:47:24.324 | INFO 	| 62:main | Go to the next account
+2024-01-24 | 12:47:41.985 | INFO 	| 48:bridge_to_opBNB | https://bscscan.com/tx/0xcfb2dc18c2879afca4a6478710567aa5ed5d2ee48ce8e1e66fff635412161066
+2024-01-24 | 12:47:41.986 | SUCCESS 	| 49:bridge_to_opBNB | 0x9143062B2EDd14BbfB39F2d66cE2bE57Db54fE7b | Successfully bridge to opBNB
+2024-01-24 | 12:47:41.988 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 12:47:43.997 | INFO 	| 60:main | Account already use
+2024-01-24 | 12:47:43.999 | INFO 	| 62:main | Go to the next account
+2024-01-24 | 12:47:48.480 | ERROR 	| 54:bridge_to_opBNB | 0x8372D88005Ec5A01171c6232EF112892f1b9A95C | bridge error to opBNB
+2024-01-24 | 12:47:59.500 | INFO 	| 48:bridge_to_opBNB | https://bscscan.com/tx/0xcadaa6485b7f14791ccc1c25aa90b4b77fec0a3571d79aa1fc3303069446deb5
+2024-01-24 | 12:47:59.502 | SUCCESS 	| 49:bridge_to_opBNB | 0xa16F1Eae605E52865c7ADE1D24D7F5530Eb08038 | Successfully bridge to opBNB
+2024-01-24 | 12:47:59.503 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 12:48:07.760 | INFO 	| 48:bridge_to_opBNB | https://bscscan.com/tx/0x1c21414d4df53311c07e34dd8c9dd91104c042c8cac24ba3b12b79603c4374ba
+2024-01-24 | 12:48:07.760 | SUCCESS 	| 49:bridge_to_opBNB | 0x7885eeFA60128411348e2D1F416BCf7d2bb506B0 | Successfully bridge to opBNB
+2024-01-24 | 12:48:07.762 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 12:48:13.217 | ERROR 	| 54:bridge_to_opBNB | 0x3Bb61555028e959Cfc4fbb242966Cb94cDA367FB | bridge error to opBNB
+2024-01-24 | 12:48:15.219 | SUCCESS 	| 72:main | Work completed successfully
+2024-01-24 | 12:48:15.220 | DEBUG 	| 73:main | Press Enter to exit...
+2024-01-24 | 12:52:00.262 | SUCCESS 	| 30:main | Downloaded successfully 10 address wallets | 11 keys wallets
+2024-01-24 | 12:52:00.264 | INFO 	| 31:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-24 | 12:54:00.744 | ERROR 	| 70:main | Unknown method, choose 1 or 2!
+2024-01-24 | 12:54:00.744 | SUCCESS 	| 74:main | Work completed successfully
+2024-01-24 | 12:54:00.745 | DEBUG 	| 75:main | Press Enter to exit...
+2024-01-24 | 12:54:24.234 | SUCCESS 	| 30:main | Downloaded successfully 101 address wallets | 101 keys wallets
+2024-01-24 | 12:54:24.235 | INFO 	| 31:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-24 | 12:54:28.580 | ERROR 	| 18:handle_make_withdrawal |  | 0.0023769016630731292 BNB | Parameter toAddr can't be empty | error code: 50014
+2024-01-24 | 12:54:42.301 | ERROR 	| 18:handle_make_withdrawal | Сообщения | 0.002062365829621066 BNB | Withdrawal address is not allowlisted for verification exemption | error code: 58207
+2024-01-24 | 12:54:53.634 | ERROR 	| 18:handle_make_withdrawal | Использовано 6,42 ГБ из 15 ГБ. | 0.002174076445770977 BNB | Withdrawal address is not allowlisted for verification exemption | error code: 58207
+2024-01-24 | 12:55:11.187 | ERROR 	| 18:handle_make_withdrawal | Условия использования · Конфиденциальность · Правила программы | 0.0023031497979316314 BNB | Withdrawal address is not allowlisted for verification exemption | error code: 58207
+2024-01-24 | 12:55:26.751 | ERROR 	| 18:handle_make_withdrawal | Последние действия в аккаунте: 11 минут назад | 0.0020585457594033286 BNB | Withdrawal address is not allowlisted for verification exemption | error code: 58207
+2024-01-24 | 12:55:47.097 | ERROR 	| 18:handle_make_withdrawal | Подробные сведения | 0.002316135163260596 BNB | Withdrawal address is not allowlisted for verification exemption | error code: 58207
+2024-01-24 | 12:55:58.696 | ERROR 	| 18:handle_make_withdrawal | 0x5DC5A81f678849cDD8169Bf19cF60F6B606Bf347 | 0.0023614733116554105 BNB | Withdrawal address is not allowlisted for verification exemption | error code: 58207
+2024-01-24 | 12:57:42.868 | SUCCESS 	| 30:main | Downloaded successfully 95 address wallets | 101 keys wallets
+2024-01-24 | 12:57:42.869 | INFO 	| 31:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-24 | 12:58:11.416 | ERROR 	| 18:handle_make_withdrawal | 0x5DC5A81f678849cDD8169Bf19cF60F6B606Bf347 | 0.002275000991283048 BNB | Withdrawal address is not allowlisted for verification exemption | error code: 58207
+2024-01-24 | 12:58:37.461 | INFO 	| 47:main | 0x2871f32A1917d7d12A5239F9c88Fca2F10A40F99 | Account already use
+2024-01-24 | 12:58:38.461 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 12:58:39.463 | INFO 	| 47:main | 0xe9C4F9CbF305A574F5E3D44Dc55F75030c48397D | Account already use
+2024-01-24 | 12:58:40.466 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 12:58:41.467 | INFO 	| 47:main | 0x3749cc32ed331E99065Afdf041DD6fa844206753 | Account already use
+2024-01-24 | 12:58:42.469 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 12:58:43.471 | INFO 	| 47:main | 0xDf46266716E9f51971218a65f94539f138B75bf6 | Account already use
+2024-01-24 | 12:58:44.473 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 12:58:45.475 | INFO 	| 47:main | 0xaa5cE0441ef21CEF05Ec58653e3Ce61b75fC10bA | Account already use
+2024-01-24 | 12:58:46.477 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 12:58:47.478 | INFO 	| 47:main | 0x9143062B2EDd14BbfB39F2d66cE2bE57Db54fE7b | Account already use
+2024-01-24 | 12:58:48.481 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 12:58:49.483 | INFO 	| 47:main | 0x8372D88005Ec5A01171c6232EF112892f1b9A95C | Account already use
+2024-01-24 | 12:58:50.485 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 12:58:51.486 | INFO 	| 47:main | 0xa16F1Eae605E52865c7ADE1D24D7F5530Eb08038 | Account already use
+2024-01-24 | 12:58:52.488 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 12:58:53.490 | INFO 	| 47:main | 0x7885eeFA60128411348e2D1F416BCf7d2bb506B0 | Account already use
+2024-01-24 | 12:58:54.492 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 12:58:58.136 | SUCCESS 	| 15:handle_make_withdrawal | 0x3Bb61555028e959Cfc4fbb242966Cb94cDA367FB | 0.002374318544548601 BNB | successfully withdrawal
+2024-01-24 | 12:58:58.137 | INFO 	| 30:save_data | 0x3Bb61555028e959Cfc4fbb242966Cb94cDA367FB| save in data/success_send.txt
+2024-01-24 | 12:59:12.958 | SUCCESS 	| 15:handle_make_withdrawal | 0x52D051b5fe0371cA89012C2584BDD21b7eEc050E | 0.0021630870959833595 BNB | successfully withdrawal
+2024-01-24 | 12:59:12.960 | INFO 	| 30:save_data | 0x52D051b5fe0371cA89012C2584BDD21b7eEc050E| save in data/success_send.txt
+2024-01-24 | 12:59:28.523 | SUCCESS 	| 15:handle_make_withdrawal | 0x545c572cE5D1D9bF3d927eAB3df8113De503Dd3d | 0.002079057620739471 BNB | successfully withdrawal
+2024-01-24 | 12:59:28.525 | INFO 	| 30:save_data | 0x545c572cE5D1D9bF3d927eAB3df8113De503Dd3d| save in data/success_send.txt
+2024-01-24 | 12:59:47.099 | SUCCESS 	| 15:handle_make_withdrawal | 0x0ED331c095d4EB244Ab6Ae93befe8860AEA832c8 | 0.0021299859789783685 BNB | successfully withdrawal
+2024-01-24 | 12:59:47.107 | INFO 	| 30:save_data | 0x0ED331c095d4EB244Ab6Ae93befe8860AEA832c8| save in data/success_send.txt
+2024-01-24 | 13:00:56.681 | SUCCESS 	| 30:main | Downloaded successfully 95 address wallets | 101 keys wallets
+2024-01-24 | 13:00:56.682 | INFO 	| 31:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-24 | 13:01:01.203 | ERROR 	| 18:handle_make_withdrawal | 0x5DC5A81f678849cDD8169Bf19cF60F6B606Bf347 | 0.0024797434344508706 BNB | Withdrawal address is not allowlisted for verification exemption | error code: 58207
+2024-01-24 | 13:01:27.242 | INFO 	| 47:main | 0x2871f32A1917d7d12A5239F9c88Fca2F10A40F99 | Account already use
+2024-01-24 | 13:01:28.245 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 13:01:29.246 | INFO 	| 47:main | 0xe9C4F9CbF305A574F5E3D44Dc55F75030c48397D | Account already use
+2024-01-24 | 13:01:30.248 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 13:01:31.249 | INFO 	| 47:main | 0x3749cc32ed331E99065Afdf041DD6fa844206753 | Account already use
+2024-01-24 | 13:01:32.252 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 13:01:33.253 | INFO 	| 47:main | 0xDf46266716E9f51971218a65f94539f138B75bf6 | Account already use
+2024-01-24 | 13:01:34.255 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 13:01:35.257 | INFO 	| 47:main | 0xaa5cE0441ef21CEF05Ec58653e3Ce61b75fC10bA | Account already use
+2024-01-24 | 13:01:36.258 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 13:01:37.260 | INFO 	| 47:main | 0x9143062B2EDd14BbfB39F2d66cE2bE57Db54fE7b | Account already use
+2024-01-24 | 13:01:38.262 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 13:01:39.264 | INFO 	| 47:main | 0x8372D88005Ec5A01171c6232EF112892f1b9A95C | Account already use
+2024-01-24 | 13:01:40.266 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 13:01:41.267 | INFO 	| 47:main | 0xa16F1Eae605E52865c7ADE1D24D7F5530Eb08038 | Account already use
+2024-01-24 | 13:01:42.269 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 13:01:43.271 | INFO 	| 47:main | 0x7885eeFA60128411348e2D1F416BCf7d2bb506B0 | Account already use
+2024-01-24 | 13:01:44.273 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 13:01:45.275 | INFO 	| 47:main | 0x3Bb61555028e959Cfc4fbb242966Cb94cDA367FB | Account already use
+2024-01-24 | 13:01:46.276 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 13:01:47.278 | INFO 	| 47:main | 0x52D051b5fe0371cA89012C2584BDD21b7eEc050E | Account already use
+2024-01-24 | 13:01:48.280 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 13:01:49.283 | INFO 	| 47:main | 0x545c572cE5D1D9bF3d927eAB3df8113De503Dd3d | Account already use
+2024-01-24 | 13:01:50.284 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 13:01:51.286 | INFO 	| 47:main | 0x0ED331c095d4EB244Ab6Ae93befe8860AEA832c8 | Account already use
+2024-01-24 | 13:01:52.288 | INFO 	| 50:main | Go to the next account
+2024-01-24 | 13:01:55.827 | SUCCESS 	| 15:handle_make_withdrawal | 0xB70a6Bd8cC7EE366741AAF45F9F084dDc7882a2E | 0.002213490109420106 BNB | successfully withdrawal
+2024-01-24 | 13:01:55.828 | INFO 	| 30:save_data | 0xB70a6Bd8cC7EE366741AAF45F9F084dDc7882a2E| save in data/success_send.txt
+2024-01-24 | 13:02:13.440 | SUCCESS 	| 15:handle_make_withdrawal | 0x37dB8EC88a2D4FA7626Eee3921898041c7a9b96B | 0.0020679492485405765 BNB | successfully withdrawal
+2024-01-24 | 13:02:13.441 | INFO 	| 30:save_data | 0x37dB8EC88a2D4FA7626Eee3921898041c7a9b96B| save in data/success_send.txt
+2024-01-24 | 13:02:45.039 | SUCCESS 	| 15:handle_make_withdrawal | 0x399116903a2157fe83C33b33A9bD224C0Cdf4e46 | 0.0023103468834501377 BNB | successfully withdrawal
+2024-01-24 | 13:02:45.040 | INFO 	| 30:save_data | 0x399116903a2157fe83C33b33A9bD224C0Cdf4e46| save in data/success_send.txt
+2024-01-24 | 13:03:11.811 | SUCCESS 	| 15:handle_make_withdrawal | 0x58325B330999Fa2884A9B79D35C0C2655c851822 | 0.0024241970773748126 BNB | successfully withdrawal
+2024-01-24 | 13:03:11.813 | INFO 	| 30:save_data | 0x58325B330999Fa2884A9B79D35C0C2655c851822| save in data/success_send.txt
+2024-01-24 | 13:03:44.453 | SUCCESS 	| 15:handle_make_withdrawal | 0x520309A23f581535063c6526Fa239764B6B0ED04 | 0.0021244924942595733 BNB | successfully withdrawal
+2024-01-24 | 13:03:44.454 | INFO 	| 30:save_data | 0x520309A23f581535063c6526Fa239764B6B0ED04| save in data/success_send.txt
+2024-01-24 | 13:04:00.102 | ERROR 	| 18:handle_make_withdrawal | 0xee5A50cBeDF15524907F316Dc8D60cc3ec725D4d | 0.0021851243500925943 BNB | Withdrawal address is not allowlisted for verification exemption | error code: 58207
+2024-01-24 | 13:04:32.880 | SUCCESS 	| 15:handle_make_withdrawal | 0x289d63A7eFe66365b293Ec16B6d15C133bc3Fb0f | 0.0020228645719620373 BNB | successfully withdrawal
+2024-01-24 | 13:04:32.881 | INFO 	| 30:save_data | 0x289d63A7eFe66365b293Ec16B6d15C133bc3Fb0f| save in data/success_send.txt
+2024-01-24 | 13:05:02.677 | SUCCESS 	| 15:handle_make_withdrawal | 0x74c0357bd73F40B660C5265b7a0eb1Eb40da330b | 0.0024071900657691644 BNB | successfully withdrawal
+2024-01-24 | 13:05:02.679 | INFO 	| 30:save_data | 0x74c0357bd73F40B660C5265b7a0eb1Eb40da330b| save in data/success_send.txt
+2024-01-24 | 13:05:29.421 | SUCCESS 	| 15:handle_make_withdrawal | 0x7Fa639fD74C89ca44675e082cB82AA338A35faD3 | 0.00242441117507675 BNB | successfully withdrawal
+2024-01-24 | 13:05:29.422 | INFO 	| 30:save_data | 0x7Fa639fD74C89ca44675e082cB82AA338A35faD3| save in data/success_send.txt
+2024-01-24 | 13:05:50.087 | SUCCESS 	| 15:handle_make_withdrawal | 0xF762F7f147194d23d68206e7557495B76c37E6d9 | 0.002225357188697049 BNB | successfully withdrawal
+2024-01-24 | 13:05:50.088 | INFO 	| 30:save_data | 0xF762F7f147194d23d68206e7557495B76c37E6d9| save in data/success_send.txt
+2024-01-24 | 13:06:06.617 | SUCCESS 	| 15:handle_make_withdrawal | 0x955dB22865c871a0825273561dF2bE0F2098f9b4 | 0.0022977775196751475 BNB | successfully withdrawal
+2024-01-24 | 13:06:06.618 | INFO 	| 30:save_data | 0x955dB22865c871a0825273561dF2bE0F2098f9b4| save in data/success_send.txt
+2024-01-24 | 13:06:35.174 | SUCCESS 	| 15:handle_make_withdrawal | 0x23451c620290Be64b560b474Fc979e9EE1e14407 | 0.0020687859228685087 BNB | successfully withdrawal
+2024-01-24 | 13:06:35.176 | INFO 	| 30:save_data | 0x23451c620290Be64b560b474Fc979e9EE1e14407| save in data/success_send.txt
+2024-01-24 | 13:06:55.013 | SUCCESS 	| 15:handle_make_withdrawal | 0xfFbe197C163af7987af759820096770c1295e528 | 0.0022845267728991083 BNB | successfully withdrawal
+2024-01-24 | 13:06:55.014 | INFO 	| 30:save_data | 0xfFbe197C163af7987af759820096770c1295e528| save in data/success_send.txt
+2024-01-24 | 13:07:12.829 | SUCCESS 	| 15:handle_make_withdrawal | 0x96A3D34dBE1a2D745A579b072f92794c25464afF | 0.0021150621869411744 BNB | successfully withdrawal
+2024-01-24 | 13:07:12.831 | INFO 	| 30:save_data | 0x96A3D34dBE1a2D745A579b072f92794c25464afF| save in data/success_send.txt
+2024-01-24 | 13:07:38.372 | SUCCESS 	| 15:handle_make_withdrawal | 0x4A921955a3420967b0e78545425e796162337464 | 0.00234235588887877 BNB | successfully withdrawal
+2024-01-24 | 13:07:38.375 | INFO 	| 30:save_data | 0x4A921955a3420967b0e78545425e796162337464| save in data/success_send.txt
+2024-01-24 | 13:07:54.919 | SUCCESS 	| 15:handle_make_withdrawal | 0x20381143C34B0847086e174e6E21390C37b861b5 | 0.0022642283505757126 BNB | successfully withdrawal
+2024-01-24 | 13:07:54.921 | INFO 	| 30:save_data | 0x20381143C34B0847086e174e6E21390C37b861b5| save in data/success_send.txt
+2024-01-24 | 13:08:12.403 | ERROR 	| 18:handle_make_withdrawal | 0xDAC59019Cf1acb4c099f15de49bce6820D41f7Ef | 0.002497793308343117 BNB | Insufficient balance | error code: 58350
+2024-01-24 | 13:08:27.175 | ERROR 	| 18:handle_make_withdrawal | 0x4e936DD72789966dCCCFA112369487209443844F | 0.0023546720982809094 BNB | Insufficient balance | error code: 58350
+2024-01-24 | 13:08:53.836 | ERROR 	| 18:handle_make_withdrawal | 0x2a15D900f377Bd5A9256E021Fe5c4dc79B2D5181 | 0.0021869180531087786 BNB | Insufficient balance | error code: 58350
+2024-01-24 | 13:11:11.257 | SUCCESS 	| 30:main | Downloaded successfully 95 address wallets | 101 keys wallets
+2024-01-24 | 13:11:11.258 | INFO 	| 31:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-24 | 13:11:34.067 | INFO 	| 64:main | Account already use
+2024-01-24 | 13:11:35.068 | INFO 	| 67:main | Go to the next account
+2024-01-24 | 13:11:39.240 | ERROR 	| 54:bridge_to_opBNB | 0xe9C4F9CbF305A574F5E3D44Dc55F75030c48397D | bridge error to opBNB
+2024-01-24 | 13:11:54.267 | INFO 	| 64:main | Account already use
+2024-01-24 | 13:11:55.268 | INFO 	| 67:main | Go to the next account
+2024-01-24 | 13:11:58.799 | ERROR 	| 54:bridge_to_opBNB | 0xDf46266716E9f51971218a65f94539f138B75bf6 | bridge error to opBNB
+2024-01-24 | 13:12:29.837 | INFO 	| 64:main | Account already use
+2024-01-24 | 13:12:30.839 | INFO 	| 67:main | Go to the next account
+2024-01-24 | 13:12:30.841 | INFO 	| 64:main | Account already use
+2024-01-24 | 13:12:31.843 | INFO 	| 67:main | Go to the next account
+2024-01-24 | 13:12:31.844 | INFO 	| 64:main | Account already use
+2024-01-24 | 13:12:32.845 | INFO 	| 67:main | Go to the next account
+2024-01-24 | 13:12:39.968 | INFO 	| 48:bridge_to_opBNB | https://bscscan.com/tx/0x5cf292f3931c3ab53505e6baf48d2d5a92b61e7116f96fde4fa36ab825e32a21
+2024-01-24 | 13:12:39.969 | SUCCESS 	| 49:bridge_to_opBNB | 0x8372D88005Ec5A01171c6232EF112892f1b9A95C | Successfully bridge to opBNB
+2024-01-24 | 13:12:39.971 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 13:13:09.018 | INFO 	| 64:main | Account already use
+2024-01-24 | 13:13:10.020 | INFO 	| 67:main | Go to the next account
+2024-01-24 | 13:13:10.021 | INFO 	| 64:main | Account already use
+2024-01-24 | 13:13:11.022 | INFO 	| 67:main | Go to the next account
+2024-01-24 | 13:13:20.934 | INFO 	| 48:bridge_to_opBNB | https://bscscan.com/tx/0x41b2891ddd2909801ca6d1e02d0a66455155a1b7912259c5062625e7c6fd1c51
+2024-01-24 | 13:13:20.934 | SUCCESS 	| 49:bridge_to_opBNB | 0x3Bb61555028e959Cfc4fbb242966Cb94cDA367FB | Successfully bridge to opBNB
+2024-01-24 | 13:13:20.936 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 13:13:46.125 | INFO 	| 48:bridge_to_opBNB | https://bscscan.com/tx/0x026b8059d297a73b0b1b1db6f67b230cebd0b2bf6c27817e25479f72cd86bb7b
+2024-01-24 | 13:13:46.125 | SUCCESS 	| 49:bridge_to_opBNB | 0x52D051b5fe0371cA89012C2584BDD21b7eEc050E | Successfully bridge to opBNB
+2024-01-24 | 13:13:46.133 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 13:14:20.847 | INFO 	| 48:bridge_to_opBNB | https://bscscan.com/tx/0x29071930ff0f5c3fe4da5c6d9c8651e94a57fe157082133c102d8f1c7fdf83c8
+2024-01-24 | 13:14:20.848 | SUCCESS 	| 49:bridge_to_opBNB | 0x545c572cE5D1D9bF3d927eAB3df8113De503Dd3d | Successfully bridge to opBNB
+2024-01-24 | 13:14:20.849 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 13:14:55.756 | ERROR 	| 54:bridge_to_opBNB | 0x0ED331c095d4EB244Ab6Ae93befe8860AEA832c8 | bridge error to opBNB
+2024-01-24 | 13:15:35.184 | INFO 	| 48:bridge_to_opBNB | https://bscscan.com/tx/0xca33d419364170ba83ef44b35756b23e0950491f20991e90d354e35ea0c869f1
+2024-01-24 | 13:15:35.185 | SUCCESS 	| 49:bridge_to_opBNB | 0xB70a6Bd8cC7EE366741AAF45F9F084dDc7882a2E | Successfully bridge to opBNB
+2024-01-24 | 13:15:35.187 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 13:15:50.857 | ERROR 	| 54:bridge_to_opBNB | 0x37dB8EC88a2D4FA7626Eee3921898041c7a9b96B | bridge error to opBNB
+2024-01-24 | 13:16:26.941 | INFO 	| 48:bridge_to_opBNB | https://bscscan.com/tx/0x692cc2dde3d932785d6b85057afa570bdeb7bdbe68942051d3ac635fa2d74e15
+2024-01-24 | 13:16:26.941 | SUCCESS 	| 49:bridge_to_opBNB | 0x399116903a2157fe83C33b33A9bD224C0Cdf4e46 | Successfully bridge to opBNB
+2024-01-24 | 13:16:26.941 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 13:16:58.755 | INFO 	| 48:bridge_to_opBNB | https://bscscan.com/tx/0x86edc86866fa2386448503388d37c1048d5ce22f4d322fff125ef2d6ed5f2e7b
+2024-01-24 | 13:16:58.755 | SUCCESS 	| 49:bridge_to_opBNB | 0x58325B330999Fa2884A9B79D35C0C2655c851822 | Successfully bridge to opBNB
+2024-01-24 | 13:16:58.755 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 13:17:27.315 | ERROR 	| 54:bridge_to_opBNB | 0x520309A23f581535063c6526Fa239764B6B0ED04 | bridge error to opBNB
+2024-01-24 | 13:17:59.681 | INFO 	| 48:bridge_to_opBNB | https://bscscan.com/tx/0xf608b7bbb3e20625cc0f774b39faee5c5a114ee392c6c7f0cbf7ada5178e71ea
+2024-01-24 | 13:17:59.682 | SUCCESS 	| 49:bridge_to_opBNB | 0xee5A50cBeDF15524907F316Dc8D60cc3ec725D4d | Successfully bridge to opBNB
+2024-01-24 | 13:17:59.683 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 13:18:31.626 | ERROR 	| 54:bridge_to_opBNB | 0x289d63A7eFe66365b293Ec16B6d15C133bc3Fb0f | bridge error to opBNB
+2024-01-24 | 13:18:59.174 | ERROR 	| 54:bridge_to_opBNB | 0x74c0357bd73F40B660C5265b7a0eb1Eb40da330b | bridge error to opBNB
+2024-01-24 | 13:19:19.872 | INFO 	| 48:bridge_to_opBNB | https://bscscan.com/tx/0xcfc4e6c1c8c623b3981779b40e5482d75c8d8ecb283832a0380672cdfa36d631
+2024-01-24 | 13:19:19.873 | SUCCESS 	| 49:bridge_to_opBNB | 0x7Fa639fD74C89ca44675e082cB82AA338A35faD3 | Successfully bridge to opBNB
+2024-01-24 | 13:19:19.874 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 13:19:50.114 | INFO 	| 48:bridge_to_opBNB | https://bscscan.com/tx/0x34109708f3e6af4f02fe9c0e26032f3d2a595e669e019ad6e6eadd88d49a7d36
+2024-01-24 | 13:19:50.115 | SUCCESS 	| 49:bridge_to_opBNB | 0xF762F7f147194d23d68206e7557495B76c37E6d9 | Successfully bridge to opBNB
+2024-01-24 | 13:19:50.116 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 13:20:22.228 | ERROR 	| 54:bridge_to_opBNB | 0x955dB22865c871a0825273561dF2bE0F2098f9b4 | bridge error to opBNB
+2024-01-24 | 13:20:46.187 | ERROR 	| 54:bridge_to_opBNB | 0x23451c620290Be64b560b474Fc979e9EE1e14407 | bridge error to opBNB
+2024-01-24 | 13:21:05.440 | ERROR 	| 54:bridge_to_opBNB | 0xfFbe197C163af7987af759820096770c1295e528 | bridge error to opBNB
+2024-01-24 | 13:21:24.927 | ERROR 	| 54:bridge_to_opBNB | 0x96A3D34dBE1a2D745A579b072f92794c25464afF | bridge error to opBNB
+2024-01-24 | 13:21:55.002 | ERROR 	| 54:bridge_to_opBNB | 0x4A921955a3420967b0e78545425e796162337464 | bridge error to opBNB
+2024-01-24 | 13:22:15.025 | ERROR 	| 54:bridge_to_opBNB | 0x20381143C34B0847086e174e6E21390C37b861b5 | bridge error to opBNB
+2024-01-24 | 13:22:50.814 | ERROR 	| 54:bridge_to_opBNB | 0xDAC59019Cf1acb4c099f15de49bce6820D41f7Ef | bridge error to opBNB
+2024-01-24 | 13:23:08.327 | ERROR 	| 54:bridge_to_opBNB | 0x4e936DD72789966dCCCFA112369487209443844F | bridge error to opBNB
+2024-01-24 | 13:23:36.391 | ERROR 	| 54:bridge_to_opBNB | 0x2a15D900f377Bd5A9256E021Fe5c4dc79B2D5181 | bridge error to opBNB
+2024-01-24 | 13:23:52.986 | ERROR 	| 54:bridge_to_opBNB | 0xC8C707A339f6184794791045c245143cb06c55a5 | bridge error to opBNB
+2024-01-24 | 13:24:24.104 | ERROR 	| 54:bridge_to_opBNB | 0xC2C3F5E60d49179E357900279bB840b5a12D529c | bridge error to opBNB
+2024-01-24 | 13:24:56.368 | ERROR 	| 54:bridge_to_opBNB | 0xE37682bB55177f5c0fAdb2E24331553ef974b8F0 | bridge error to opBNB
+2024-01-24 | 13:25:21.862 | ERROR 	| 54:bridge_to_opBNB | 0x35D5F0db2E8Ee221dd210885eDC2f007149121dF | bridge error to opBNB
+2024-01-24 | 13:25:41.963 | ERROR 	| 54:bridge_to_opBNB | 0x268ED881a214a41A6af15F14F2d05015c6dAcfc9 | bridge error to opBNB
+2024-01-24 | 13:26:04.490 | ERROR 	| 54:bridge_to_opBNB | 0xFdffA64f953c58CfD4B746672e2aaa6CA6621d50 | bridge error to opBNB
+2024-01-24 | 13:26:26.683 | ERROR 	| 54:bridge_to_opBNB | 0xD099b135ee98146ade2F6DA47DA3690D2Ec9BF25 | bridge error to opBNB
+2024-01-24 | 13:26:55.668 | ERROR 	| 54:bridge_to_opBNB | 0x74203e0191cadA4f66760AD205Fdb944be473C40 | bridge error to opBNB
+2024-01-24 | 13:27:16.557 | ERROR 	| 54:bridge_to_opBNB | 0x6425F304c244F524d87e0986f41Af57FC1C78C49 | bridge error to opBNB
+2024-01-24 | 13:27:38.271 | ERROR 	| 54:bridge_to_opBNB | 0x6E810024b37f3d6e1D69c71021f57dbBA376cb68 | bridge error to opBNB
+2024-01-24 | 13:27:54.183 | ERROR 	| 54:bridge_to_opBNB | 0x40899c38D41350C47Fe92F40e4595B337Da5eE99 | bridge error to opBNB
+2024-01-24 | 13:28:27.115 | ERROR 	| 54:bridge_to_opBNB | 0x6f16B9B61DBBDdbcDb16bc204CA841c8b087d91F | bridge error to opBNB
+2024-01-24 | 13:28:47.022 | ERROR 	| 54:bridge_to_opBNB | 0xD235e6D61738E75129c2D3eFB427840B6e506b48 | bridge error to opBNB
+2024-01-24 | 13:29:17.603 | ERROR 	| 54:bridge_to_opBNB | 0x2F027BaE9ba5C77AF2B0fBC25e022fA6b142e675 | bridge error to opBNB
+2024-01-24 | 13:29:42.527 | ERROR 	| 54:bridge_to_opBNB | 0xb9F6EdbfE11a78594C469ebCE4e6E5B18D52cf89 | bridge error to opBNB
+2024-01-24 | 13:30:09.422 | ERROR 	| 54:bridge_to_opBNB | 0x8505e4703C9274d751989a8c0B76C2D615bC53f2 | bridge error to opBNB
+2024-01-24 | 13:30:36.100 | ERROR 	| 54:bridge_to_opBNB | 0xf01cF572256A23411D8cBB892144eE991553EfE9 | bridge error to opBNB
+2024-01-24 | 13:31:08.143 | INFO 	| 64:main | Account already use
+2024-01-24 | 13:31:09.143 | INFO 	| 67:main | Go to the next account
+2024-01-24 | 13:31:12.785 | ERROR 	| 54:bridge_to_opBNB | 0x842037D3c632D3c86dC8E3853E11c0f32d848864 | bridge error to opBNB
+2024-01-24 | 13:31:43.429 | ERROR 	| 54:bridge_to_opBNB | 0xEb90Bfa85b7960CDae72Ab7ef17F6C1000a497E9 | bridge error to opBNB
+2024-01-24 | 13:32:09.135 | ERROR 	| 54:bridge_to_opBNB | 0xd8c8e8eB3EeD78de27135fC953F85aB72C15CbD0 | bridge error to opBNB
+2024-01-24 | 13:32:24.932 | ERROR 	| 54:bridge_to_opBNB | 0xcE7806238cEC792e0E7B874b551432a7a58dCBfb | bridge error to opBNB
+2024-01-24 | 13:32:52.422 | ERROR 	| 54:bridge_to_opBNB | 0x4Fac66aC47BAf4FBDB8a1CbEb4cE63A3d9c67a15 | bridge error to opBNB
+2024-01-24 | 13:33:14.052 | ERROR 	| 54:bridge_to_opBNB | 0xd4f3D782Df1C2F49F0342FC347b84204ac9de950 | bridge error to opBNB
+2024-01-24 | 13:33:47.583 | ERROR 	| 54:bridge_to_opBNB | 0xA80E004F8D58A8c4C45754E6789FDDA39d7EfF64 | bridge error to opBNB
+2024-01-24 | 13:34:06.978 | ERROR 	| 54:bridge_to_opBNB | 0xD8af23CC520DBc4a3280687A43AAe34df0dFC333 | bridge error to opBNB
+2024-01-24 | 13:34:32.085 | ERROR 	| 54:bridge_to_opBNB | 0xfA2fB797ecC349d98dC9D1c4899A9F641a8b334a | bridge error to opBNB
+2024-01-24 | 13:34:51.788 | ERROR 	| 54:bridge_to_opBNB | 0x80dbC5FEB5FcB8C91e5F1E083205A0Eaf441e283 | bridge error to opBNB
+2024-01-24 | 13:35:25.238 | ERROR 	| 54:bridge_to_opBNB | 0xbf03E65035Fa8e86145e4316477E691d22aa7A30 | bridge error to opBNB
+2024-01-24 | 13:35:55.237 | ERROR 	| 54:bridge_to_opBNB | 0x1703ab1037F0159eE53941ff96108795E331ABF0 | bridge error to opBNB
+2024-01-24 | 13:36:11.525 | ERROR 	| 54:bridge_to_opBNB | 0xc7B74dEf443b9489c790050F4eBA2972DC04Abb0 | bridge error to opBNB
+2024-01-24 | 13:36:42.349 | ERROR 	| 54:bridge_to_opBNB | 0x1730Ef35645288Dc7C5a435C3dF6Df0c89E00249 | bridge error to opBNB
+2024-01-24 | 13:37:02.830 | ERROR 	| 54:bridge_to_opBNB | 0xaC831436F87591E0A3f37cD047EA6AA24259bFD4 | bridge error to opBNB
+2024-01-24 | 13:37:29.758 | ERROR 	| 54:bridge_to_opBNB | 0xc9CD4587B9F0a468c94eD4e81174bcfC167DF17F | bridge error to opBNB
+2024-01-24 | 13:38:05.540 | ERROR 	| 54:bridge_to_opBNB | 0x12618050540050bfb77990564Dd42722bf5B017C | bridge error to opBNB
+2024-01-24 | 13:38:41.141 | ERROR 	| 54:bridge_to_opBNB | 0x26cBf1D8c830b86dbf8D46858BADE3e93B463Ad7 | bridge error to opBNB
+2024-01-24 | 13:39:10.325 | ERROR 	| 54:bridge_to_opBNB | 0xC6f3C3627B21f5aEfd7A087743520266F19f48d6 | bridge error to opBNB
+2024-01-24 | 13:39:27.739 | ERROR 	| 54:bridge_to_opBNB | 0x898A84445674B4d770D2EE0813e16682774410D6 | bridge error to opBNB
+2024-01-24 | 13:39:55.634 | ERROR 	| 54:bridge_to_opBNB | 0x401d5E7A084E818B529147D82d8Fd520aD2Eb07c | bridge error to opBNB
+2024-01-24 | 13:40:20.779 | ERROR 	| 54:bridge_to_opBNB | 0x7b27Dcf0cc66f5209F201c99Be99518675FcbF86 | bridge error to opBNB
+2024-01-24 | 13:40:40.547 | ERROR 	| 54:bridge_to_opBNB | 0x4EC207D29C06Eab21340d383a75b35445626F9CD | bridge error to opBNB
+2024-01-24 | 13:40:57.645 | ERROR 	| 54:bridge_to_opBNB | 0xF1919A232Cfc05150bb010a7Dc2088458Cf70B27 | bridge error to opBNB
+2024-01-24 | 13:41:27.961 | ERROR 	| 54:bridge_to_opBNB | 0xd21Ae8C6d2f615a38E26aFADEe5883c3E4546140 | bridge error to opBNB
+2024-01-24 | 13:42:01.850 | ERROR 	| 54:bridge_to_opBNB | 0x606865D760136BfF6d9F41AAffE2ed1852fa3E3b | bridge error to opBNB
+2024-01-24 | 13:42:37.521 | ERROR 	| 54:bridge_to_opBNB | 0x7DE428294ed5fB9687C16451FF11eB37f256930c | bridge error to opBNB
+2024-01-24 | 13:43:11.175 | ERROR 	| 54:bridge_to_opBNB | 0x2DC47ef83569363136d98cF8D1b310c637A39A15 | bridge error to opBNB
+2024-01-24 | 13:43:28.747 | ERROR 	| 54:bridge_to_opBNB | 0xF83d6100e901537E4Ee5636A19edb754A4303a8c | bridge error to opBNB
+2024-01-24 | 13:44:02.833 | ERROR 	| 54:bridge_to_opBNB | 0x227c07d6CD4Fc2d98b47Af95e29aF327a5B18B6B | bridge error to opBNB
+2024-01-24 | 13:44:32.696 | ERROR 	| 54:bridge_to_opBNB | 0xC4eE0608Fea5Aa93a7E4DFAf03442c05d8c17e30 | bridge error to opBNB
+2024-01-24 | 13:44:54.232 | ERROR 	| 54:bridge_to_opBNB | 0x45A7e8f57D3775fAE88468e0Aa0F619D49E3Fc3c | bridge error to opBNB
+2024-01-24 | 13:45:24.311 | ERROR 	| 54:bridge_to_opBNB | 0x068c6e2355564b43Bc81805D41507bF795c3caCA | bridge error to opBNB
+2024-01-24 | 13:45:41.923 | ERROR 	| 54:bridge_to_opBNB | 0x657A8db2fb61Ee5Dd3251523fDcc22f0857945d8 | bridge error to opBNB
+2024-01-24 | 13:46:01.212 | ERROR 	| 54:bridge_to_opBNB | 0x5aEfC61811827dd05Ca4612754b4F74F1d678c1b | bridge error to opBNB
+2024-01-24 | 13:46:16.838 | ERROR 	| 54:bridge_to_opBNB | 0x64a1DbC3595480779734354a04E56f36EC91dafc | bridge error to opBNB
+2024-01-24 | 13:46:43.361 | ERROR 	| 54:bridge_to_opBNB | 0x3BA9aB913bCdea19396c9B05FaE7A073B4D4B2eB | bridge error to opBNB
+2024-01-24 | 13:47:13.958 | ERROR 	| 54:bridge_to_opBNB | 0x8C95d7AB650F6B5Eaec500717c73A839b4c4b68c | bridge error to opBNB
+2024-01-24 | 13:47:29.994 | ERROR 	| 54:bridge_to_opBNB | 0x48c6Ca38163B1ee9585B66644424E53154A07Fb7 | bridge error to opBNB
+2024-01-24 | 13:47:48.881 | ERROR 	| 54:bridge_to_opBNB | 0x766638Fb17F8457AA8ff2f9ABFc4E3cA5c3A4f1F | bridge error to opBNB
+2024-01-24 | 13:48:10.305 | ERROR 	| 54:bridge_to_opBNB | 0x177b363dD2395C55795a16ede6eEBc089303a20F | bridge error to opBNB
+2024-01-24 | 13:48:43.916 | ERROR 	| 54:bridge_to_opBNB | 0xD43c43780C3612f0135AEf01C7B263714EAE1754 | bridge error to opBNB
+2024-01-24 | 13:49:03.559 | ERROR 	| 54:bridge_to_opBNB | 0x52AB230a8A732F8Cf92C7bB86004A904cf085742 | bridge error to opBNB
+2024-01-24 | 13:49:29.879 | ERROR 	| 54:bridge_to_opBNB | 0xb75ae66AB6c6DB6613b173454E148281f33840eE | bridge error to opBNB
+2024-01-24 | 13:49:47.080 | ERROR 	| 54:bridge_to_opBNB | 0xa383a14ff9EFf63e88d47F7D0f70A810cc663771 | bridge error to opBNB
+2024-01-24 | 13:50:09.816 | ERROR 	| 54:bridge_to_opBNB | 0x0E20E6f85B8e323f8300825072FAc2da66B43385 | bridge error to opBNB
+2024-01-24 | 13:50:39.713 | ERROR 	| 54:bridge_to_opBNB | 0x613f38dd278F041B573670DAA7C1Ad24Af8b4AA1 | bridge error to opBNB
+2024-01-24 | 13:51:01.939 | ERROR 	| 54:bridge_to_opBNB | 0xC75CB24564eBfD1B555Ada0C3f6EeD7388d37ef3 | bridge error to opBNB
+2024-01-24 | 13:51:19.242 | ERROR 	| 54:bridge_to_opBNB | 0x4bFa9225c425731C0b6A2301Bc8d5AaE93Edc4E6 | bridge error to opBNB
+2024-01-24 | 13:51:54.784 | ERROR 	| 54:bridge_to_opBNB | 0xf8d7788733bef6879427837b3e92Ebf28cf69398 | bridge error to opBNB
+2024-01-24 | 13:52:18.814 | SUCCESS 	| 77:main | Work completed successfully
+2024-01-24 | 13:52:18.814 | DEBUG 	| 78:main | Press Enter to exit...
+2024-01-24 | 14:14:41.636 | SUCCESS 	| 30:main | Downloaded successfully 95 address wallets | 101 keys wallets
+2024-01-24 | 14:14:41.637 | INFO 	| 31:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-24 | 14:15:10.850 | INFO 	| 43:main | work progress | 1/95
+2024-01-24 | 14:15:11.634 | ERROR 	| 18:handle_make_withdrawal | 0x5DC5A81f678849cDD8169Bf19cF60F6B606Bf347 | 0.002397846232647002 BNB | Withdrawal address is not allowlisted for verification exemption | error code: 58207
+2024-01-24 | 14:15:33.674 | INFO 	| 43:main | work progress | 2/95
+2024-01-24 | 14:15:33.675 | INFO 	| 50:main | 0x2871f32A1917d7d12A5239F9c88Fca2F10A40F99 | Account already use
+2024-01-24 | 14:15:34.677 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:15:35.679 | INFO 	| 43:main | work progress | 3/95
+2024-01-24 | 14:15:35.681 | INFO 	| 50:main | 0xe9C4F9CbF305A574F5E3D44Dc55F75030c48397D | Account already use
+2024-01-24 | 14:15:36.683 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:15:37.685 | INFO 	| 43:main | work progress | 4/95
+2024-01-24 | 14:15:37.686 | INFO 	| 50:main | 0x3749cc32ed331E99065Afdf041DD6fa844206753 | Account already use
+2024-01-24 | 14:15:38.688 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:15:39.690 | INFO 	| 43:main | work progress | 5/95
+2024-01-24 | 14:15:39.691 | INFO 	| 50:main | 0xDf46266716E9f51971218a65f94539f138B75bf6 | Account already use
+2024-01-24 | 14:15:40.693 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:15:41.696 | INFO 	| 43:main | work progress | 6/95
+2024-01-24 | 14:15:41.697 | INFO 	| 50:main | 0xaa5cE0441ef21CEF05Ec58653e3Ce61b75fC10bA | Account already use
+2024-01-24 | 14:15:42.698 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:15:43.700 | INFO 	| 43:main | work progress | 7/95
+2024-01-24 | 14:15:43.701 | INFO 	| 50:main | 0x9143062B2EDd14BbfB39F2d66cE2bE57Db54fE7b | Account already use
+2024-01-24 | 14:15:44.704 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:15:45.705 | INFO 	| 43:main | work progress | 8/95
+2024-01-24 | 14:15:45.706 | INFO 	| 50:main | 0x8372D88005Ec5A01171c6232EF112892f1b9A95C | Account already use
+2024-01-24 | 14:15:46.708 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:15:47.710 | INFO 	| 43:main | work progress | 9/95
+2024-01-24 | 14:15:47.712 | INFO 	| 50:main | 0xa16F1Eae605E52865c7ADE1D24D7F5530Eb08038 | Account already use
+2024-01-24 | 14:15:48.713 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:15:49.715 | INFO 	| 43:main | work progress | 10/95
+2024-01-24 | 14:15:49.722 | INFO 	| 50:main | 0x7885eeFA60128411348e2D1F416BCf7d2bb506B0 | Account already use
+2024-01-24 | 14:15:50.724 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:15:51.726 | INFO 	| 43:main | work progress | 11/95
+2024-01-24 | 14:15:51.727 | INFO 	| 50:main | 0x3Bb61555028e959Cfc4fbb242966Cb94cDA367FB | Account already use
+2024-01-24 | 14:15:52.729 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:15:53.731 | INFO 	| 43:main | work progress | 12/95
+2024-01-24 | 14:15:53.732 | INFO 	| 50:main | 0x52D051b5fe0371cA89012C2584BDD21b7eEc050E | Account already use
+2024-01-24 | 14:15:54.734 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:15:55.736 | INFO 	| 43:main | work progress | 13/95
+2024-01-24 | 14:15:55.737 | INFO 	| 50:main | 0x545c572cE5D1D9bF3d927eAB3df8113De503Dd3d | Account already use
+2024-01-24 | 14:15:56.739 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:15:57.742 | INFO 	| 43:main | work progress | 14/95
+2024-01-24 | 14:15:57.743 | INFO 	| 50:main | 0x0ED331c095d4EB244Ab6Ae93befe8860AEA832c8 | Account already use
+2024-01-24 | 14:15:58.744 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:15:59.746 | INFO 	| 43:main | work progress | 15/95
+2024-01-24 | 14:15:59.748 | INFO 	| 50:main | 0xB70a6Bd8cC7EE366741AAF45F9F084dDc7882a2E | Account already use
+2024-01-24 | 14:16:00.750 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:16:01.752 | INFO 	| 43:main | work progress | 16/95
+2024-01-24 | 14:16:01.753 | INFO 	| 50:main | 0x37dB8EC88a2D4FA7626Eee3921898041c7a9b96B | Account already use
+2024-01-24 | 14:16:02.754 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:16:03.756 | INFO 	| 43:main | work progress | 17/95
+2024-01-24 | 14:16:03.757 | INFO 	| 50:main | 0x399116903a2157fe83C33b33A9bD224C0Cdf4e46 | Account already use
+2024-01-24 | 14:16:04.759 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:16:05.760 | INFO 	| 43:main | work progress | 18/95
+2024-01-24 | 14:16:05.761 | INFO 	| 50:main | 0x58325B330999Fa2884A9B79D35C0C2655c851822 | Account already use
+2024-01-24 | 14:16:06.764 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:16:07.766 | INFO 	| 43:main | work progress | 19/95
+2024-01-24 | 14:16:07.767 | INFO 	| 50:main | 0x520309A23f581535063c6526Fa239764B6B0ED04 | Account already use
+2024-01-24 | 14:16:08.768 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:16:09.771 | INFO 	| 43:main | work progress | 20/95
+2024-01-24 | 14:16:10.447 | ERROR 	| 18:handle_make_withdrawal | 0xee5A50cBeDF15524907F316Dc8D60cc3ec725D4d | 0.0023198042508099626 BNB | Withdrawal address is not allowlisted for verification exemption | error code: 58207
+2024-01-24 | 14:16:37.486 | INFO 	| 43:main | work progress | 21/95
+2024-01-24 | 14:16:37.487 | INFO 	| 50:main | 0x289d63A7eFe66365b293Ec16B6d15C133bc3Fb0f | Account already use
+2024-01-24 | 14:16:38.489 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:16:39.490 | INFO 	| 43:main | work progress | 22/95
+2024-01-24 | 14:16:39.491 | INFO 	| 50:main | 0x74c0357bd73F40B660C5265b7a0eb1Eb40da330b | Account already use
+2024-01-24 | 14:16:40.493 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:16:41.495 | INFO 	| 43:main | work progress | 23/95
+2024-01-24 | 14:16:41.496 | INFO 	| 50:main | 0x7Fa639fD74C89ca44675e082cB82AA338A35faD3 | Account already use
+2024-01-24 | 14:16:42.497 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:16:43.499 | INFO 	| 43:main | work progress | 24/95
+2024-01-24 | 14:16:43.500 | INFO 	| 50:main | 0xF762F7f147194d23d68206e7557495B76c37E6d9 | Account already use
+2024-01-24 | 14:16:44.502 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:16:45.504 | INFO 	| 43:main | work progress | 25/95
+2024-01-24 | 14:16:45.507 | INFO 	| 50:main | 0x955dB22865c871a0825273561dF2bE0F2098f9b4 | Account already use
+2024-01-24 | 14:16:46.508 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:16:47.510 | INFO 	| 43:main | work progress | 26/95
+2024-01-24 | 14:16:47.511 | INFO 	| 50:main | 0x23451c620290Be64b560b474Fc979e9EE1e14407 | Account already use
+2024-01-24 | 14:16:48.513 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:16:49.515 | INFO 	| 43:main | work progress | 27/95
+2024-01-24 | 14:16:49.516 | INFO 	| 50:main | 0xfFbe197C163af7987af759820096770c1295e528 | Account already use
+2024-01-24 | 14:16:50.517 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:16:51.519 | INFO 	| 43:main | work progress | 28/95
+2024-01-24 | 14:16:51.520 | INFO 	| 50:main | 0x96A3D34dBE1a2D745A579b072f92794c25464afF | Account already use
+2024-01-24 | 14:16:52.522 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:16:53.524 | INFO 	| 43:main | work progress | 29/95
+2024-01-24 | 14:16:53.525 | INFO 	| 50:main | 0x4A921955a3420967b0e78545425e796162337464 | Account already use
+2024-01-24 | 14:16:54.527 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:16:55.528 | INFO 	| 43:main | work progress | 30/95
+2024-01-24 | 14:16:55.529 | INFO 	| 50:main | 0x20381143C34B0847086e174e6E21390C37b861b5 | Account already use
+2024-01-24 | 14:16:56.531 | INFO 	| 53:main | Go to the next account
+2024-01-24 | 14:16:57.533 | INFO 	| 43:main | work progress | 31/95
+2024-01-24 | 14:16:58.482 | ERROR 	| 18:handle_make_withdrawal | 0xDAC59019Cf1acb4c099f15de49bce6820D41f7Ef | 0.0023446369269372372 BNB | Insufficient balance | error code: 58350
+2024-01-24 | 14:17:13.277 | SUCCESS 	| 30:main | Downloaded successfully 95 address wallets | 101 keys wallets
+2024-01-24 | 14:17:13.278 | INFO 	| 31:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-24 | 14:17:18.664 | INFO 	| 43:main | work progress | 1/95
+2024-01-24 | 14:17:20.091 | ERROR 	| 18:handle_make_withdrawal | 0x5DC5A81f678849cDD8169Bf19cF60F6B606Bf347 | 0.00247821763524488 BNB | Withdrawal address is not allowlisted for verification exemption | error code: 58207
+2024-01-24 | 14:17:35.118 | INFO 	| 43:main | work progress | 2/95
+2024-01-24 | 14:17:36.120 | INFO 	| 51:main | 0x2871f32A1917d7d12A5239F9c88Fca2F10A40F99 | Account already use
+2024-01-24 | 14:17:37.122 | INFO 	| 54:main | Go to the next account
+2024-01-24 | 14:17:38.124 | INFO 	| 43:main | work progress | 3/95
+2024-01-24 | 14:17:39.126 | INFO 	| 51:main | 0xe9C4F9CbF305A574F5E3D44Dc55F75030c48397D | Account already use
+2024-01-24 | 14:17:40.128 | INFO 	| 54:main | Go to the next account
+2024-01-24 | 14:17:41.130 | INFO 	| 43:main | work progress | 4/95
+2024-01-24 | 14:17:42.132 | INFO 	| 51:main | 0x3749cc32ed331E99065Afdf041DD6fa844206753 | Account already use
+2024-01-24 | 14:17:43.134 | INFO 	| 54:main | Go to the next account
+2024-01-24 | 14:17:44.136 | INFO 	| 43:main | work progress | 5/95
+2024-01-24 | 14:17:45.137 | INFO 	| 51:main | 0xDf46266716E9f51971218a65f94539f138B75bf6 | Account already use
+2024-01-24 | 14:17:46.140 | INFO 	| 54:main | Go to the next account
+2024-01-24 | 14:17:47.141 | INFO 	| 43:main | work progress | 6/95
+2024-01-24 | 14:17:48.142 | INFO 	| 51:main | 0xaa5cE0441ef21CEF05Ec58653e3Ce61b75fC10bA | Account already use
+2024-01-24 | 14:17:49.144 | INFO 	| 54:main | Go to the next account
+2024-01-24 | 14:17:50.145 | INFO 	| 43:main | work progress | 7/95
+2024-01-24 | 14:17:51.146 | INFO 	| 51:main | 0x9143062B2EDd14BbfB39F2d66cE2bE57Db54fE7b | Account already use
+2024-01-24 | 14:17:52.148 | INFO 	| 54:main | Go to the next account
+2024-01-24 | 14:17:53.150 | INFO 	| 43:main | work progress | 8/95
+2024-01-24 | 14:17:54.152 | INFO 	| 51:main | 0x8372D88005Ec5A01171c6232EF112892f1b9A95C | Account already use
+2024-01-24 | 14:17:55.154 | INFO 	| 54:main | Go to the next account
+2024-01-24 | 14:18:01.690 | SUCCESS 	| 30:main | Downloaded successfully 95 address wallets | 101 keys wallets
+2024-01-24 | 14:18:01.691 | INFO 	| 31:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-24 | 14:18:06.428 | INFO 	| 67:main | work progress | 1/101
+2024-01-24 | 14:18:07.430 | INFO 	| 72:main | Account already use
+2024-01-24 | 14:18:08.431 | INFO 	| 75:main | Go to the next account
+2024-01-24 | 14:18:08.432 | INFO 	| 67:main | work progress | 2/101
+2024-01-24 | 14:18:19.834 | INFO 	| 48:bridge_to_opBNB | https://bscscan.com/tx/0x41ec55b68086c086848646d9fb38d0479f59acf7618f984f50ef92387984adf0
+2024-01-24 | 14:18:19.835 | SUCCESS 	| 49:bridge_to_opBNB | 0xe9C4F9CbF305A574F5E3D44Dc55F75030c48397D | Successfully bridge to opBNB
+2024-01-24 | 14:18:19.836 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 14:18:35.863 | INFO 	| 67:main | work progress | 3/101
+2024-01-24 | 14:18:36.872 | INFO 	| 72:main | Account already use
+2024-01-24 | 14:18:37.874 | INFO 	| 75:main | Go to the next account
+2024-01-24 | 14:18:37.875 | INFO 	| 67:main | work progress | 4/101
+2024-01-24 | 14:18:42.881 | ERROR 	| 54:bridge_to_opBNB | 0xDf46266716E9f51971218a65f94539f138B75bf6 | bridge error to opBNB
+2024-01-24 | 14:19:08.914 | INFO 	| 67:main | work progress | 5/101
+2024-01-24 | 14:19:09.917 | INFO 	| 72:main | Account already use
+2024-01-24 | 14:19:10.919 | INFO 	| 75:main | Go to the next account
+2024-01-24 | 14:19:10.920 | INFO 	| 67:main | work progress | 6/101
+2024-01-24 | 14:19:11.921 | INFO 	| 72:main | Account already use
+2024-01-24 | 14:19:12.923 | INFO 	| 75:main | Go to the next account
+2024-01-24 | 14:19:12.924 | INFO 	| 67:main | work progress | 7/101
+2024-01-24 | 14:19:13.926 | INFO 	| 72:main | Account already use
+2024-01-24 | 14:19:14.927 | INFO 	| 75:main | Go to the next account
+2024-01-24 | 14:19:14.929 | INFO 	| 67:main | work progress | 8/101
+2024-01-24 | 14:19:15.930 | INFO 	| 72:main | Account already use
+2024-01-24 | 14:19:16.931 | INFO 	| 75:main | Go to the next account
+2024-01-24 | 14:19:16.932 | INFO 	| 67:main | work progress | 9/101
+2024-01-24 | 14:19:17.934 | INFO 	| 72:main | Account already use
+2024-01-24 | 14:19:18.935 | INFO 	| 75:main | Go to the next account
+2024-01-24 | 14:19:18.937 | INFO 	| 67:main | work progress | 10/101
+2024-01-24 | 14:19:19.938 | INFO 	| 72:main | Account already use
+2024-01-24 | 14:19:20.940 | INFO 	| 75:main | Go to the next account
+2024-01-24 | 14:19:20.941 | INFO 	| 67:main | work progress | 11/101
+2024-01-24 | 14:19:21.942 | INFO 	| 72:main | Account already use
+2024-01-24 | 14:19:22.945 | INFO 	| 75:main | Go to the next account
+2024-01-24 | 14:19:22.946 | INFO 	| 67:main | work progress | 12/101
+2024-01-24 | 14:19:23.948 | INFO 	| 72:main | Account already use
+2024-01-24 | 14:19:24.950 | INFO 	| 75:main | Go to the next account
+2024-01-24 | 14:19:24.951 | INFO 	| 67:main | work progress | 13/101
+2024-01-24 | 14:19:25.953 | INFO 	| 72:main | Account already use
+2024-01-24 | 14:19:26.955 | INFO 	| 75:main | Go to the next account
+2024-01-24 | 14:19:26.956 | INFO 	| 67:main | work progress | 14/101
+2024-01-24 | 14:19:31.295 | ERROR 	| 54:bridge_to_opBNB | 0x0ED331c095d4EB244Ab6Ae93befe8860AEA832c8 | bridge error to opBNB
+2024-01-24 | 14:19:44.312 | INFO 	| 67:main | work progress | 15/101
+2024-01-24 | 14:19:45.314 | INFO 	| 72:main | Account already use
+2024-01-24 | 14:19:46.315 | INFO 	| 75:main | Go to the next account
+2024-01-24 | 14:19:46.316 | INFO 	| 67:main | work progress | 16/101
+2024-01-24 | 14:19:50.538 | ERROR 	| 54:bridge_to_opBNB | 0x37dB8EC88a2D4FA7626Eee3921898041c7a9b96B | bridge error to opBNB
+2024-01-24 | 14:20:05.558 | INFO 	| 67:main | work progress | 17/101
+2024-01-24 | 14:20:06.559 | INFO 	| 72:main | Account already use
+2024-01-24 | 14:20:07.561 | INFO 	| 75:main | Go to the next account
+2024-01-24 | 14:20:07.562 | INFO 	| 67:main | work progress | 18/101
+2024-01-24 | 14:20:08.563 | INFO 	| 72:main | Account already use
+2024-01-24 | 14:20:09.566 | INFO 	| 75:main | Go to the next account
+2024-01-24 | 14:20:09.567 | INFO 	| 67:main | work progress | 19/101
+2024-01-24 | 14:20:14.281 | ERROR 	| 54:bridge_to_opBNB | 0x520309A23f581535063c6526Fa239764B6B0ED04 | bridge error to opBNB
+2024-01-24 | 14:20:40.315 | INFO 	| 67:main | work progress | 20/101
+2024-01-24 | 14:20:41.317 | INFO 	| 72:main | Account already use
+2024-01-24 | 14:20:42.318 | INFO 	| 75:main | Go to the next account
+2024-01-24 | 14:20:42.320 | INFO 	| 67:main | work progress | 21/101
+2024-01-24 | 14:20:47.165 | ERROR 	| 54:bridge_to_opBNB | 0x289d63A7eFe66365b293Ec16B6d15C133bc3Fb0f | bridge error to opBNB
+2024-01-24 | 14:21:09.192 | INFO 	| 67:main | work progress | 22/101
+2024-01-24 | 14:21:20.139 | ERROR 	| 54:bridge_to_opBNB | 0x74c0357bd73F40B660C5265b7a0eb1Eb40da330b | bridge error to opBNB
+2024-01-24 | 14:21:41.163 | INFO 	| 67:main | work progress | 23/101
+2024-01-24 | 14:21:42.164 | INFO 	| 72:main | Account already use
+2024-01-24 | 14:21:43.166 | INFO 	| 75:main | Go to the next account
+2024-01-24 | 14:21:43.166 | INFO 	| 67:main | work progress | 24/101
+2024-01-24 | 14:21:44.167 | INFO 	| 72:main | Account already use
+2024-01-24 | 14:21:45.169 | INFO 	| 75:main | Go to the next account
+2024-01-24 | 14:21:45.170 | INFO 	| 67:main | work progress | 25/101
+2024-01-24 | 14:21:50.185 | ERROR 	| 54:bridge_to_opBNB | 0x955dB22865c871a0825273561dF2bE0F2098f9b4 | bridge error to opBNB
+2024-01-24 | 14:22:48.193 | SUCCESS 	| 31:main | Downloaded successfully 95 address wallets | 101 keys wallets
+2024-01-24 | 14:22:48.195 | INFO 	| 32:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-24 | 14:22:53.356 | WARNING 	| 84:main | Unknown method, choose 1 or 2!
+2024-01-24 | 14:22:53.356 | DEBUG 	| 87:main | Work completed successfully | Press Enter to exit...
+2024-01-24 | 14:23:25.205 | SUCCESS 	| 31:main | Downloaded successfully 95 address wallets | 101 keys wallets
+2024-01-24 | 14:23:25.206 | INFO 	| 32:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-24 | 14:23:36.681 | INFO 	| 68:main | work progress | 1/101
+2024-01-24 | 14:23:37.682 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:23:38.684 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:23:38.685 | INFO 	| 68:main | work progress | 2/101
+2024-01-24 | 14:23:39.686 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:23:40.689 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:23:40.690 | INFO 	| 68:main | work progress | 3/101
+2024-01-24 | 14:23:41.691 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:23:42.692 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:23:42.693 | INFO 	| 68:main | work progress | 4/101
+2024-01-24 | 14:23:48.007 | ERROR 	| 54:bridge_to_opBNB | 0xDf46266716E9f51971218a65f94539f138B75bf6 | bridge error to opBNB
+2024-01-24 | 14:24:07.033 | INFO 	| 68:main | work progress | 5/101
+2024-01-24 | 14:24:08.034 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:24:09.036 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:24:09.036 | INFO 	| 68:main | work progress | 6/101
+2024-01-24 | 14:24:10.037 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:24:11.038 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:24:11.038 | INFO 	| 68:main | work progress | 7/101
+2024-01-24 | 14:24:12.040 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:24:13.042 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:24:13.042 | INFO 	| 68:main | work progress | 8/101
+2024-01-24 | 14:24:14.044 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:24:15.045 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:24:15.045 | INFO 	| 68:main | work progress | 9/101
+2024-01-24 | 14:24:16.047 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:24:17.049 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:24:17.049 | INFO 	| 68:main | work progress | 10/101
+2024-01-24 | 14:24:18.051 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:24:19.052 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:24:19.052 | INFO 	| 68:main | work progress | 11/101
+2024-01-24 | 14:24:20.053 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:24:21.054 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:24:21.054 | INFO 	| 68:main | work progress | 12/101
+2024-01-24 | 14:24:22.056 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:24:23.058 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:24:23.058 | INFO 	| 68:main | work progress | 13/101
+2024-01-24 | 14:24:24.060 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:24:25.062 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:24:25.063 | INFO 	| 68:main | work progress | 14/101
+2024-01-24 | 14:24:29.080 | ERROR 	| 54:bridge_to_opBNB | 0x0ED331c095d4EB244Ab6Ae93befe8860AEA832c8 | bridge error to opBNB
+2024-01-24 | 14:24:43.095 | INFO 	| 68:main | work progress | 15/101
+2024-01-24 | 14:24:44.096 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:24:45.097 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:24:45.097 | INFO 	| 68:main | work progress | 16/101
+2024-01-24 | 14:24:49.185 | ERROR 	| 54:bridge_to_opBNB | 0x37dB8EC88a2D4FA7626Eee3921898041c7a9b96B | bridge error to opBNB
+2024-01-24 | 14:25:06.202 | INFO 	| 68:main | work progress | 17/101
+2024-01-24 | 14:25:07.203 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:25:08.205 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:25:08.205 | INFO 	| 68:main | work progress | 18/101
+2024-01-24 | 14:25:09.206 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:25:10.208 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:25:10.208 | INFO 	| 68:main | work progress | 19/101
+2024-01-24 | 14:25:14.645 | ERROR 	| 54:bridge_to_opBNB | 0x520309A23f581535063c6526Fa239764B6B0ED04 | bridge error to opBNB
+2024-01-24 | 14:25:30.661 | INFO 	| 68:main | work progress | 20/101
+2024-01-24 | 14:25:31.663 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:25:32.664 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:25:32.664 | INFO 	| 68:main | work progress | 21/101
+2024-01-24 | 14:25:37.481 | ERROR 	| 54:bridge_to_opBNB | 0x289d63A7eFe66365b293Ec16B6d15C133bc3Fb0f | bridge error to opBNB
+2024-01-24 | 14:25:53.497 | INFO 	| 68:main | work progress | 22/101
+2024-01-24 | 14:25:58.249 | ERROR 	| 54:bridge_to_opBNB | 0x74c0357bd73F40B660C5265b7a0eb1Eb40da330b | bridge error to opBNB
+2024-01-24 | 14:26:11.263 | INFO 	| 68:main | work progress | 23/101
+2024-01-24 | 14:26:12.264 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:26:13.265 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:26:13.266 | INFO 	| 68:main | work progress | 24/101
+2024-01-24 | 14:26:14.268 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:26:15.268 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:26:15.268 | INFO 	| 68:main | work progress | 25/101
+2024-01-24 | 14:26:23.200 | INFO 	| 48:bridge_to_opBNB | https://bscscan.com/tx/0x085e97448664cec7eb58c8d9b81d661bbabf0a4e3a68b0b4aebfcc9d488b42e8
+2024-01-24 | 14:26:23.200 | SUCCESS 	| 49:bridge_to_opBNB | 0x955dB22865c871a0825273561dF2bE0F2098f9b4 | Successfully bridge to opBNB
+2024-01-24 | 14:26:23.201 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 14:26:48.225 | INFO 	| 68:main | work progress | 26/101
+2024-01-24 | 14:26:53.163 | ERROR 	| 54:bridge_to_opBNB | 0x23451c620290Be64b560b474Fc979e9EE1e14407 | bridge error to opBNB
+2024-01-24 | 14:27:14.184 | INFO 	| 68:main | work progress | 27/101
+2024-01-24 | 14:27:22.142 | INFO 	| 48:bridge_to_opBNB | https://bscscan.com/tx/0x43d913502d1c176851dfb402f4433d4eec685de65002eca4d197581f29fe71a2
+2024-01-24 | 14:27:22.142 | SUCCESS 	| 49:bridge_to_opBNB | 0xfFbe197C163af7987af759820096770c1295e528 | Successfully bridge to opBNB
+2024-01-24 | 14:27:22.144 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 14:27:51.172 | INFO 	| 68:main | work progress | 28/101
+2024-01-24 | 14:28:00.894 | INFO 	| 48:bridge_to_opBNB | https://bscscan.com/tx/0x306901b7e06d3d942bd68466cf1cc5148ff99bce310f97a845e603ac6e859b6c
+2024-01-24 | 14:28:00.894 | SUCCESS 	| 49:bridge_to_opBNB | 0x96A3D34dBE1a2D745A579b072f92794c25464afF | Successfully bridge to opBNB
+2024-01-24 | 14:28:00.895 | INFO 	| 25:save_data |  key save in data/success_bridge.txt
+2024-01-24 | 14:28:14.909 | INFO 	| 68:main | work progress | 29/101
+2024-01-24 | 14:28:20.000 | ERROR 	| 54:bridge_to_opBNB | 0x4A921955a3420967b0e78545425e796162337464 | bridge error to opBNB
+2024-01-24 | 14:28:35.013 | INFO 	| 68:main | work progress | 30/101
+2024-01-24 | 14:28:39.558 | ERROR 	| 54:bridge_to_opBNB | 0x20381143C34B0847086e174e6E21390C37b861b5 | bridge error to opBNB
+2024-01-24 | 14:28:56.574 | INFO 	| 68:main | work progress | 31/101
+2024-01-24 | 14:29:01.168 | ERROR 	| 54:bridge_to_opBNB | 0xDAC59019Cf1acb4c099f15de49bce6820D41f7Ef | bridge error to opBNB
+2024-01-24 | 14:29:14.179 | INFO 	| 68:main | work progress | 32/101
+2024-01-24 | 14:29:18.781 | ERROR 	| 54:bridge_to_opBNB | 0x4e936DD72789966dCCCFA112369487209443844F | bridge error to opBNB
+2024-01-24 | 14:29:30.791 | INFO 	| 68:main | work progress | 33/101
+2024-01-24 | 14:29:35.911 | ERROR 	| 54:bridge_to_opBNB | 0x2a15D900f377Bd5A9256E021Fe5c4dc79B2D5181 | bridge error to opBNB
+2024-01-24 | 14:29:51.927 | INFO 	| 68:main | work progress | 34/101
+2024-01-24 | 14:29:56.266 | ERROR 	| 54:bridge_to_opBNB | 0xC8C707A339f6184794791045c245143cb06c55a5 | bridge error to opBNB
+2024-01-24 | 14:30:24.290 | INFO 	| 68:main | work progress | 35/101
+2024-01-24 | 14:30:28.470 | ERROR 	| 54:bridge_to_opBNB | 0xC2C3F5E60d49179E357900279bB840b5a12D529c | bridge error to opBNB
+2024-01-24 | 14:30:41.482 | INFO 	| 68:main | work progress | 36/101
+2024-01-24 | 14:30:46.033 | ERROR 	| 54:bridge_to_opBNB | 0xE37682bB55177f5c0fAdb2E24331553ef974b8F0 | bridge error to opBNB
+2024-01-24 | 14:31:00.046 | INFO 	| 68:main | work progress | 37/101
+2024-01-24 | 14:31:04.668 | ERROR 	| 54:bridge_to_opBNB | 0x35D5F0db2E8Ee221dd210885eDC2f007149121dF | bridge error to opBNB
+2024-01-24 | 14:31:28.688 | INFO 	| 68:main | work progress | 38/101
+2024-01-24 | 14:31:33.070 | ERROR 	| 54:bridge_to_opBNB | 0x268ED881a214a41A6af15F14F2d05015c6dAcfc9 | bridge error to opBNB
+2024-01-24 | 14:31:50.086 | INFO 	| 68:main | work progress | 39/101
+2024-01-24 | 14:31:54.955 | ERROR 	| 54:bridge_to_opBNB | 0xFdffA64f953c58CfD4B746672e2aaa6CA6621d50 | bridge error to opBNB
+2024-01-24 | 14:32:18.977 | INFO 	| 68:main | work progress | 40/101
+2024-01-24 | 14:32:23.134 | ERROR 	| 54:bridge_to_opBNB | 0xD099b135ee98146ade2F6DA47DA3690D2Ec9BF25 | bridge error to opBNB
+2024-01-24 | 14:32:53.164 | INFO 	| 68:main | work progress | 41/101
+2024-01-24 | 14:32:57.618 | ERROR 	| 54:bridge_to_opBNB | 0x74203e0191cadA4f66760AD205Fdb944be473C40 | bridge error to opBNB
+2024-01-24 | 14:33:09.630 | INFO 	| 68:main | work progress | 42/101
+2024-01-24 | 14:33:14.723 | ERROR 	| 54:bridge_to_opBNB | 0x6425F304c244F524d87e0986f41Af57FC1C78C49 | bridge error to opBNB
+2024-01-24 | 14:33:26.734 | INFO 	| 68:main | work progress | 43/101
+2024-01-24 | 14:33:31.212 | ERROR 	| 54:bridge_to_opBNB | 0x6E810024b37f3d6e1D69c71021f57dbBA376cb68 | bridge error to opBNB
+2024-01-24 | 14:33:50.230 | INFO 	| 68:main | work progress | 44/101
+2024-01-24 | 14:33:54.659 | ERROR 	| 54:bridge_to_opBNB | 0x40899c38D41350C47Fe92F40e4595B337Da5eE99 | bridge error to opBNB
+2024-01-24 | 14:34:24.690 | INFO 	| 68:main | work progress | 45/101
+2024-01-24 | 14:34:29.368 | ERROR 	| 54:bridge_to_opBNB | 0x6f16B9B61DBBDdbcDb16bc204CA841c8b087d91F | bridge error to opBNB
+2024-01-24 | 14:34:56.396 | INFO 	| 68:main | work progress | 46/101
+2024-01-24 | 14:35:01.369 | ERROR 	| 54:bridge_to_opBNB | 0xD235e6D61738E75129c2D3eFB427840B6e506b48 | bridge error to opBNB
+2024-01-24 | 14:35:17.385 | INFO 	| 68:main | work progress | 47/101
+2024-01-24 | 14:35:22.010 | ERROR 	| 54:bridge_to_opBNB | 0x2F027BaE9ba5C77AF2B0fBC25e022fA6b142e675 | bridge error to opBNB
+2024-01-24 | 14:35:51.036 | INFO 	| 68:main | work progress | 48/101
+2024-01-24 | 14:35:55.907 | ERROR 	| 54:bridge_to_opBNB | 0xb9F6EdbfE11a78594C469ebCE4e6E5B18D52cf89 | bridge error to opBNB
+2024-01-24 | 14:36:18.931 | INFO 	| 68:main | work progress | 49/101
+2024-01-24 | 14:36:22.912 | ERROR 	| 54:bridge_to_opBNB | 0x8505e4703C9274d751989a8c0B76C2D615bC53f2 | bridge error to opBNB
+2024-01-24 | 14:36:38.934 | INFO 	| 68:main | work progress | 50/101
+2024-01-24 | 14:36:43.473 | ERROR 	| 54:bridge_to_opBNB | 0xf01cF572256A23411D8cBB892144eE991553EfE9 | bridge error to opBNB
+2024-01-24 | 14:37:05.501 | INFO 	| 68:main | work progress | 51/101
+2024-01-24 | 14:37:06.502 | INFO 	| 73:main | Account already use
+2024-01-24 | 14:37:07.505 | INFO 	| 76:main | Go to the next account
+2024-01-24 | 14:37:07.506 | INFO 	| 68:main | work progress | 52/101
+2024-01-24 | 14:37:12.247 | ERROR 	| 54:bridge_to_opBNB | 0x842037D3c632D3c86dC8E3853E11c0f32d848864 | bridge error to opBNB
+2024-01-24 | 14:37:28.267 | INFO 	| 68:main | work progress | 53/101
+2024-01-24 | 14:37:33.506 | ERROR 	| 54:bridge_to_opBNB | 0xEb90Bfa85b7960CDae72Ab7ef17F6C1000a497E9 | bridge error to opBNB
+2024-01-24 | 14:38:02.543 | INFO 	| 68:main | work progress | 54/101
+2024-01-24 | 14:38:07.094 | ERROR 	| 54:bridge_to_opBNB | 0xd8c8e8eB3EeD78de27135fC953F85aB72C15CbD0 | bridge error to opBNB
+2024-01-24 | 14:38:26.119 | INFO 	| 68:main | work progress | 55/101
+2024-01-24 | 14:38:30.549 | ERROR 	| 54:bridge_to_opBNB | 0xcE7806238cEC792e0E7B874b551432a7a58dCBfb | bridge error to opBNB
+2024-01-24 | 14:38:55.583 | INFO 	| 68:main | work progress | 56/101
+2024-01-24 | 14:38:59.938 | ERROR 	| 54:bridge_to_opBNB | 0x4Fac66aC47BAf4FBDB8a1CbEb4cE63A3d9c67a15 | bridge error to opBNB
+2024-01-24 | 14:39:29.974 | INFO 	| 68:main | work progress | 57/101
+2024-01-24 | 14:39:34.139 | ERROR 	| 54:bridge_to_opBNB | 0xd4f3D782Df1C2F49F0342FC347b84204ac9de950 | bridge error to opBNB
+2024-01-24 | 14:40:04.177 | INFO 	| 68:main | work progress | 58/101
+2024-01-24 | 14:40:09.038 | ERROR 	| 54:bridge_to_opBNB | 0xA80E004F8D58A8c4C45754E6789FDDA39d7EfF64 | bridge error to opBNB
+2024-01-24 | 14:40:36.071 | INFO 	| 68:main | work progress | 59/101
+2024-01-24 | 14:40:41.009 | ERROR 	| 54:bridge_to_opBNB | 0xD8af23CC520DBc4a3280687A43AAe34df0dFC333 | bridge error to opBNB
+2024-01-24 | 14:41:09.044 | INFO 	| 68:main | work progress | 60/101
+2024-01-24 | 14:41:13.978 | ERROR 	| 54:bridge_to_opBNB | 0xfA2fB797ecC349d98dC9D1c4899A9F641a8b334a | bridge error to opBNB
+2024-01-24 | 14:41:44.014 | INFO 	| 68:main | work progress | 61/101
+2024-01-24 | 14:41:48.490 | ERROR 	| 54:bridge_to_opBNB | 0x80dbC5FEB5FcB8C91e5F1E083205A0Eaf441e283 | bridge error to opBNB
+2024-01-24 | 14:42:06.514 | INFO 	| 68:main | work progress | 62/101
+2024-01-24 | 14:42:10.709 | ERROR 	| 54:bridge_to_opBNB | 0xbf03E65035Fa8e86145e4316477E691d22aa7A30 | bridge error to opBNB
+2024-01-24 | 14:42:31.734 | INFO 	| 68:main | work progress | 63/101
+2024-01-24 | 14:42:37.042 | ERROR 	| 54:bridge_to_opBNB | 0x1703ab1037F0159eE53941ff96108795E331ABF0 | bridge error to opBNB
+2024-01-24 | 14:43:06.078 | INFO 	| 68:main | work progress | 64/101
+2024-01-24 | 14:43:11.070 | ERROR 	| 54:bridge_to_opBNB | 0xc7B74dEf443b9489c790050F4eBA2972DC04Abb0 | bridge error to opBNB
+2024-01-24 | 14:43:33.097 | INFO 	| 68:main | work progress | 65/101
+2024-01-24 | 14:43:38.166 | ERROR 	| 54:bridge_to_opBNB | 0x1730Ef35645288Dc7C5a435C3dF6Df0c89E00249 | bridge error to opBNB
+2024-01-24 | 14:44:02.195 | INFO 	| 68:main | work progress | 66/101
+2024-01-24 | 14:44:07.808 | ERROR 	| 54:bridge_to_opBNB | 0xaC831436F87591E0A3f37cD047EA6AA24259bFD4 | bridge error to opBNB
+2024-01-24 | 14:44:36.844 | INFO 	| 68:main | work progress | 67/101
+2024-01-24 | 14:44:42.281 | ERROR 	| 54:bridge_to_opBNB | 0xc9CD4587B9F0a468c94eD4e81174bcfC167DF17F | bridge error to opBNB
+2024-01-24 | 14:44:54.296 | INFO 	| 68:main | work progress | 68/101
+2024-01-24 | 14:44:59.372 | ERROR 	| 54:bridge_to_opBNB | 0x12618050540050bfb77990564Dd42722bf5B017C | bridge error to opBNB
+2024-01-24 | 14:45:19.396 | INFO 	| 68:main | work progress | 69/101
+2024-01-24 | 14:45:24.156 | ERROR 	| 54:bridge_to_opBNB | 0x26cBf1D8c830b86dbf8D46858BADE3e93B463Ad7 | bridge error to opBNB
+2024-01-24 | 14:45:40.177 | INFO 	| 68:main | work progress | 70/101
+2024-01-24 | 14:45:45.769 | ERROR 	| 54:bridge_to_opBNB | 0xC6f3C3627B21f5aEfd7A087743520266F19f48d6 | bridge error to opBNB
+2024-01-24 | 14:46:02.790 | INFO 	| 68:main | work progress | 71/101
+2024-01-24 | 14:46:07.913 | ERROR 	| 54:bridge_to_opBNB | 0x898A84445674B4d770D2EE0813e16682774410D6 | bridge error to opBNB
+2024-01-24 | 14:46:29.943 | INFO 	| 68:main | work progress | 72/101
+2024-01-24 | 14:46:34.568 | ERROR 	| 54:bridge_to_opBNB | 0x401d5E7A084E818B529147D82d8Fd520aD2Eb07c | bridge error to opBNB
+2024-01-24 | 14:46:54.593 | INFO 	| 68:main | work progress | 73/101
+2024-01-24 | 14:46:59.192 | ERROR 	| 54:bridge_to_opBNB | 0x7b27Dcf0cc66f5209F201c99Be99518675FcbF86 | bridge error to opBNB
+2024-01-24 | 14:47:11.210 | INFO 	| 68:main | work progress | 74/101
+2024-01-24 | 14:47:15.777 | ERROR 	| 54:bridge_to_opBNB | 0x4EC207D29C06Eab21340d383a75b35445626F9CD | bridge error to opBNB
+2024-01-24 | 14:47:47.817 | INFO 	| 68:main | work progress | 75/101
+2024-01-24 | 14:47:52.441 | ERROR 	| 54:bridge_to_opBNB | 0xF1919A232Cfc05150bb010a7Dc2088458Cf70B27 | bridge error to opBNB
+2024-01-24 | 14:48:10.465 | INFO 	| 68:main | work progress | 76/101
+2024-01-24 | 14:48:14.962 | ERROR 	| 54:bridge_to_opBNB | 0xd21Ae8C6d2f615a38E26aFADEe5883c3E4546140 | bridge error to opBNB
+2024-01-24 | 14:48:36.991 | INFO 	| 68:main | work progress | 77/101
+2024-01-24 | 14:48:41.739 | ERROR 	| 54:bridge_to_opBNB | 0x606865D760136BfF6d9F41AAffE2ed1852fa3E3b | bridge error to opBNB
+2024-01-24 | 14:49:13.778 | INFO 	| 68:main | work progress | 78/101
+2024-01-24 | 14:49:18.082 | ERROR 	| 54:bridge_to_opBNB | 0x7DE428294ed5fB9687C16451FF11eB37f256930c | bridge error to opBNB
+2024-01-24 | 14:49:33.102 | INFO 	| 68:main | work progress | 79/101
+2024-01-24 | 14:49:37.712 | ERROR 	| 54:bridge_to_opBNB | 0x2DC47ef83569363136d98cF8D1b310c637A39A15 | bridge error to opBNB
+2024-01-24 | 14:50:05.749 | INFO 	| 68:main | work progress | 80/101
+2024-01-24 | 14:50:09.974 | ERROR 	| 54:bridge_to_opBNB | 0xF83d6100e901537E4Ee5636A19edb754A4303a8c | bridge error to opBNB
+2024-01-24 | 14:50:25.995 | INFO 	| 68:main | work progress | 81/101
+2024-01-24 | 14:50:30.658 | ERROR 	| 54:bridge_to_opBNB | 0x227c07d6CD4Fc2d98b47Af95e29aF327a5B18B6B | bridge error to opBNB
+2024-01-24 | 14:50:58.691 | INFO 	| 68:main | work progress | 82/101
+2024-01-24 | 14:51:03.428 | ERROR 	| 54:bridge_to_opBNB | 0xC4eE0608Fea5Aa93a7E4DFAf03442c05d8c17e30 | bridge error to opBNB
+2024-01-24 | 14:51:25.454 | INFO 	| 68:main | work progress | 83/101
+2024-01-24 | 14:51:29.951 | ERROR 	| 54:bridge_to_opBNB | 0x45A7e8f57D3775fAE88468e0Aa0F619D49E3Fc3c | bridge error to opBNB
+2024-01-24 | 14:51:42.969 | INFO 	| 68:main | work progress | 84/101
+2024-01-24 | 14:51:47.809 | ERROR 	| 54:bridge_to_opBNB | 0x068c6e2355564b43Bc81805D41507bF795c3caCA | bridge error to opBNB
+2024-01-24 | 14:52:10.838 | INFO 	| 68:main | work progress | 85/101
+2024-01-24 | 14:52:15.314 | ERROR 	| 54:bridge_to_opBNB | 0x657A8db2fb61Ee5Dd3251523fDcc22f0857945d8 | bridge error to opBNB
+2024-01-24 | 14:52:38.343 | INFO 	| 68:main | work progress | 86/101
+2024-01-24 | 14:52:45.214 | ERROR 	| 54:bridge_to_opBNB | 0x5aEfC61811827dd05Ca4612754b4F74F1d678c1b | bridge error to opBNB
+2024-01-24 | 14:53:04.238 | INFO 	| 68:main | work progress | 87/101
+2024-01-24 | 14:53:09.586 | ERROR 	| 54:bridge_to_opBNB | 0x64a1DbC3595480779734354a04E56f36EC91dafc | bridge error to opBNB
+2024-01-24 | 14:53:22.603 | INFO 	| 68:main | work progress | 88/101
+2024-01-24 | 14:53:26.996 | ERROR 	| 54:bridge_to_opBNB | 0x3BA9aB913bCdea19396c9B05FaE7A073B4D4B2eB | bridge error to opBNB
+2024-01-24 | 14:53:55.031 | INFO 	| 68:main | work progress | 89/101
+2024-01-24 | 14:53:59.593 | ERROR 	| 54:bridge_to_opBNB | 0x8C95d7AB650F6B5Eaec500717c73A839b4c4b68c | bridge error to opBNB
+2024-01-24 | 14:54:23.624 | INFO 	| 68:main | work progress | 90/101
+2024-01-24 | 14:54:28.032 | ERROR 	| 54:bridge_to_opBNB | 0x48c6Ca38163B1ee9585B66644424E53154A07Fb7 | bridge error to opBNB
+2024-01-24 | 14:54:47.056 | INFO 	| 68:main | work progress | 91/101
+2024-01-24 | 14:54:51.689 | ERROR 	| 54:bridge_to_opBNB | 0x766638Fb17F8457AA8ff2f9ABFc4E3cA5c3A4f1F | bridge error to opBNB
+2024-01-24 | 14:55:19.722 | INFO 	| 68:main | work progress | 92/101
+2024-01-24 | 14:55:24.769 | ERROR 	| 54:bridge_to_opBNB | 0x177b363dD2395C55795a16ede6eEBc089303a20F | bridge error to opBNB
+2024-01-24 | 14:55:54.809 | INFO 	| 68:main | work progress | 93/101
+2024-01-24 | 14:55:59.923 | ERROR 	| 54:bridge_to_opBNB | 0xD43c43780C3612f0135AEf01C7B263714EAE1754 | bridge error to opBNB
+2024-01-24 | 14:56:31.964 | INFO 	| 68:main | work progress | 94/101
+2024-01-24 | 14:56:36.961 | ERROR 	| 54:bridge_to_opBNB | 0x52AB230a8A732F8Cf92C7bB86004A904cf085742 | bridge error to opBNB
+2024-01-24 | 14:56:58.988 | INFO 	| 68:main | work progress | 95/101
+2024-01-24 | 14:57:04.222 | ERROR 	| 54:bridge_to_opBNB | 0xb75ae66AB6c6DB6613b173454E148281f33840eE | bridge error to opBNB
+2024-01-24 | 14:57:24.247 | INFO 	| 68:main | work progress | 96/101
+2024-01-24 | 14:57:29.492 | ERROR 	| 54:bridge_to_opBNB | 0xa383a14ff9EFf63e88d47F7D0f70A810cc663771 | bridge error to opBNB
+2024-01-24 | 14:57:55.524 | INFO 	| 68:main | work progress | 97/101
+2024-01-24 | 14:58:00.934 | ERROR 	| 54:bridge_to_opBNB | 0x0E20E6f85B8e323f8300825072FAc2da66B43385 | bridge error to opBNB
+2024-01-24 | 14:58:31.974 | INFO 	| 68:main | work progress | 98/101
+2024-01-24 | 14:58:37.079 | ERROR 	| 54:bridge_to_opBNB | 0x613f38dd278F041B573670DAA7C1Ad24Af8b4AA1 | bridge error to opBNB
+2024-01-24 | 14:58:55.101 | INFO 	| 68:main | work progress | 99/101
+2024-01-24 | 14:58:59.745 | ERROR 	| 54:bridge_to_opBNB | 0xC75CB24564eBfD1B555Ada0C3f6EeD7388d37ef3 | bridge error to opBNB
+2024-01-24 | 14:59:18.770 | INFO 	| 68:main | work progress | 100/101
+2024-01-24 | 14:59:23.883 | ERROR 	| 54:bridge_to_opBNB | 0x4bFa9225c425731C0b6A2301Bc8d5AaE93Edc4E6 | bridge error to opBNB
+2024-01-24 | 14:59:35.900 | INFO 	| 68:main | work progress | 101/101
+2024-01-24 | 14:59:41.213 | ERROR 	| 54:bridge_to_opBNB | 0xf8d7788733bef6879427837b3e92Ebf28cf69398 | bridge error to opBNB
+2024-01-24 | 14:59:57.234 | DEBUG 	| 87:main | Work completed successfully | Press Enter to exit...
+2024-01-24 | 15:08:51.185 | SUCCESS 	| 31:main | Downloaded successfully 95 address wallets | 101 keys wallets
+2024-01-24 | 15:08:51.186 | INFO 	| 32:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-24 | 15:09:15.484 | SUCCESS 	| 31:main | Downloaded successfully 95 address wallets | 101 keys wallets
+2024-01-24 | 15:09:15.485 | INFO 	| 32:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-24 | 15:09:34.607 | INFO 	| 44:main | work progress | 1/95 | in line | 94
+2024-01-24 | 15:09:37.439 | ERROR 	| 18:handle_make_withdrawal | 0x5DC5A81f678849cDD8169Bf19cF60F6B606Bf347 | 0.002413001594747552 BNB | Withdrawal address is not allowlisted for verification exemption | error code: 58207
+2024-01-24 | 15:09:53.460 | INFO 	| 44:main | work progress | 2/95 | in line | 93
+2024-01-24 | 15:09:54.461 | INFO 	| 52:main | 0x2871f32A1917d7d12A5239F9c88Fca2F10A40F99 | Account already use
+2024-01-24 | 15:09:55.463 | INFO 	| 55:main | Go to the next account
+2024-01-24 | 15:09:56.464 | INFO 	| 44:main | work progress | 3/95 | in line | 92
+2024-01-24 | 15:09:57.464 | INFO 	| 52:main | 0xe9C4F9CbF305A574F5E3D44Dc55F75030c48397D | Account already use
+2024-01-24 | 15:09:58.466 | INFO 	| 55:main | Go to the next account
+2024-01-24 | 15:09:59.467 | INFO 	| 44:main | work progress | 4/95 | in line | 91
+2024-01-24 | 15:10:00.468 | INFO 	| 52:main | 0x3749cc32ed331E99065Afdf041DD6fa844206753 | Account already use
+2024-01-24 | 15:10:01.469 | INFO 	| 55:main | Go to the next account
+2024-01-24 | 15:10:02.470 | INFO 	| 44:main | work progress | 5/95 | in line | 90
+2024-01-24 | 15:10:03.472 | INFO 	| 52:main | 0xDf46266716E9f51971218a65f94539f138B75bf6 | Account already use
+2024-01-24 | 15:10:04.473 | INFO 	| 55:main | Go to the next account
+2024-01-24 | 15:10:05.474 | INFO 	| 44:main | work progress | 6/95 | in line | 89
+2024-01-24 | 15:10:06.476 | INFO 	| 52:main | 0xaa5cE0441ef21CEF05Ec58653e3Ce61b75fC10bA | Account already use
+2024-01-24 | 15:10:07.477 | INFO 	| 55:main | Go to the next account
+2024-01-24 | 15:10:08.478 | INFO 	| 44:main | work progress | 7/95 | in line | 88
+2024-01-24 | 15:10:09.479 | INFO 	| 52:main | 0x9143062B2EDd14BbfB39F2d66cE2bE57Db54fE7b | Account already use
+2024-01-24 | 15:10:10.480 | INFO 	| 55:main | Go to the next account
+2024-01-24 | 15:10:11.481 | INFO 	| 44:main | work progress | 8/95 | in line | 87
+2024-01-24 | 15:10:12.482 | INFO 	| 52:main | 0x8372D88005Ec5A01171c6232EF112892f1b9A95C | Account already use
+2024-01-24 | 15:10:13.484 | INFO 	| 55:main | Go to the next account
+2024-01-24 | 15:10:14.485 | INFO 	| 44:main | work progress | 9/95 | in line | 86
+2024-01-24 | 15:10:15.486 | INFO 	| 52:main | 0xa16F1Eae605E52865c7ADE1D24D7F5530Eb08038 | Account already use
+2024-01-24 | 15:10:16.488 | INFO 	| 55:main | Go to the next account
+2024-01-24 | 15:10:17.489 | INFO 	| 44:main | work progress | 10/95 | in line | 85
+2024-01-24 | 15:10:18.490 | INFO 	| 52:main | 0x7885eeFA60128411348e2D1F416BCf7d2bb506B0 | Account already use
+2024-01-24 | 15:10:19.492 | INFO 	| 55:main | Go to the next account
+2024-01-24 | 15:10:20.493 | INFO 	| 44:main | work progress | 11/95 | in line | 84
+2024-01-24 | 15:10:21.495 | INFO 	| 52:main | 0x3Bb61555028e959Cfc4fbb242966Cb94cDA367FB | Account already use
+2024-01-24 | 15:10:22.496 | INFO 	| 55:main | Go to the next account
+2024-01-24 | 15:10:23.497 | INFO 	| 44:main | work progress | 12/95 | in line | 83
+2024-01-24 | 15:10:24.498 | INFO 	| 52:main | 0x52D051b5fe0371cA89012C2584BDD21b7eEc050E | Account already use
+2024-01-25 | 13:16:49.305 | SUCCESS 	| 31:main | Downloaded successfully 95 address wallets | 101 keys wallets
+2024-01-25 | 13:16:49.311 | INFO 	| 32:main | 💰 DONATION EVM ADDRESS: 0x4A080654795e526801954493BD0D712609d0ccEF
+2024-01-25 | 13:17:00.198 | INFO 	| 44:main | work progress: 1/95 | in line: 94
+2024-01-25 | 13:17:01.869 | ERROR 	| 18:handle_make_withdrawal | 0x5DC5A81f678849cDD8169Bf19cF60F6B606Bf347 | 0.0023803738759779146 BNB | Withdrawal address is not allowlisted for verification exemption | error code: 58207
+2024-01-25 | 13:17:16.917 | INFO 	| 44:main | work progress: 2/95 | in line: 93
+2024-01-25 | 13:17:17.919 | INFO 	| 52:main | 0x2871f32A1917d7d12A5239F9c88Fca2F10A40F99 | Account already use
+2024-01-25 | 13:17:18.921 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:17:19.922 | INFO 	| 44:main | work progress: 3/95 | in line: 92
+2024-01-25 | 13:17:20.923 | INFO 	| 52:main | 0xe9C4F9CbF305A574F5E3D44Dc55F75030c48397D | Account already use
+2024-01-25 | 13:17:21.924 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:17:22.926 | INFO 	| 44:main | work progress: 4/95 | in line: 91
+2024-01-25 | 13:17:23.927 | INFO 	| 52:main | 0x3749cc32ed331E99065Afdf041DD6fa844206753 | Account already use
+2024-01-25 | 13:17:24.928 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:17:25.929 | INFO 	| 44:main | work progress: 5/95 | in line: 90
+2024-01-25 | 13:17:26.930 | INFO 	| 52:main | 0xDf46266716E9f51971218a65f94539f138B75bf6 | Account already use
+2024-01-25 | 13:17:27.932 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:17:28.935 | INFO 	| 44:main | work progress: 6/95 | in line: 89
+2024-01-25 | 13:17:29.936 | INFO 	| 52:main | 0xaa5cE0441ef21CEF05Ec58653e3Ce61b75fC10bA | Account already use
+2024-01-25 | 13:17:30.938 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:17:31.939 | INFO 	| 44:main | work progress: 7/95 | in line: 88
+2024-01-25 | 13:17:32.940 | INFO 	| 52:main | 0x9143062B2EDd14BbfB39F2d66cE2bE57Db54fE7b | Account already use
+2024-01-25 | 13:17:33.941 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:17:34.942 | INFO 	| 44:main | work progress: 8/95 | in line: 87
+2024-01-25 | 13:17:35.943 | INFO 	| 52:main | 0x8372D88005Ec5A01171c6232EF112892f1b9A95C | Account already use
+2024-01-25 | 13:17:36.944 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:17:37.945 | INFO 	| 44:main | work progress: 9/95 | in line: 86
+2024-01-25 | 13:17:38.947 | INFO 	| 52:main | 0xa16F1Eae605E52865c7ADE1D24D7F5530Eb08038 | Account already use
+2024-01-25 | 13:17:39.948 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:17:40.949 | INFO 	| 44:main | work progress: 10/95 | in line: 85
+2024-01-25 | 13:17:41.950 | INFO 	| 52:main | 0x7885eeFA60128411348e2D1F416BCf7d2bb506B0 | Account already use
+2024-01-25 | 13:17:42.952 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:17:43.953 | INFO 	| 44:main | work progress: 11/95 | in line: 84
+2024-01-25 | 13:17:44.953 | INFO 	| 52:main | 0x3Bb61555028e959Cfc4fbb242966Cb94cDA367FB | Account already use
+2024-01-25 | 13:17:45.955 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:17:46.956 | INFO 	| 44:main | work progress: 12/95 | in line: 83
+2024-01-25 | 13:17:47.957 | INFO 	| 52:main | 0x52D051b5fe0371cA89012C2584BDD21b7eEc050E | Account already use
+2024-01-25 | 13:17:48.958 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:17:49.960 | INFO 	| 44:main | work progress: 13/95 | in line: 82
+2024-01-25 | 13:17:50.961 | INFO 	| 52:main | 0x545c572cE5D1D9bF3d927eAB3df8113De503Dd3d | Account already use
+2024-01-25 | 13:17:51.963 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:17:52.964 | INFO 	| 44:main | work progress: 14/95 | in line: 81
+2024-01-25 | 13:17:53.965 | INFO 	| 52:main | 0x0ED331c095d4EB244Ab6Ae93befe8860AEA832c8 | Account already use
+2024-01-25 | 13:17:54.966 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:17:55.968 | INFO 	| 44:main | work progress: 15/95 | in line: 80
+2024-01-25 | 13:17:56.969 | INFO 	| 52:main | 0xB70a6Bd8cC7EE366741AAF45F9F084dDc7882a2E | Account already use
+2024-01-25 | 13:17:57.971 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:17:58.971 | INFO 	| 44:main | work progress: 16/95 | in line: 79
+2024-01-25 | 13:17:59.973 | INFO 	| 52:main | 0x37dB8EC88a2D4FA7626Eee3921898041c7a9b96B | Account already use
+2024-01-25 | 13:18:00.974 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:18:01.975 | INFO 	| 44:main | work progress: 17/95 | in line: 78
+2024-01-25 | 13:18:02.977 | INFO 	| 52:main | 0x399116903a2157fe83C33b33A9bD224C0Cdf4e46 | Account already use
+2024-01-25 | 13:18:03.978 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:18:04.979 | INFO 	| 44:main | work progress: 18/95 | in line: 77
+2024-01-25 | 13:18:05.980 | INFO 	| 52:main | 0x58325B330999Fa2884A9B79D35C0C2655c851822 | Account already use
+2024-01-25 | 13:18:06.982 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:18:07.983 | INFO 	| 44:main | work progress: 19/95 | in line: 76
+2024-01-25 | 13:18:08.984 | INFO 	| 52:main | 0x520309A23f581535063c6526Fa239764B6B0ED04 | Account already use
+2024-01-25 | 13:18:09.985 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:18:10.987 | INFO 	| 44:main | work progress: 20/95 | in line: 75
+2024-01-25 | 13:18:12.803 | ERROR 	| 18:handle_make_withdrawal | 0xee5A50cBeDF15524907F316Dc8D60cc3ec725D4d | 0.0024575547193062593 BNB | Withdrawal address is not allowlisted for verification exemption | error code: 58207
+2024-01-25 | 13:18:51.838 | INFO 	| 44:main | work progress: 21/95 | in line: 74
+2024-01-25 | 13:18:52.841 | INFO 	| 52:main | 0x289d63A7eFe66365b293Ec16B6d15C133bc3Fb0f | Account already use
+2024-01-25 | 13:18:53.842 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:18:54.843 | INFO 	| 44:main | work progress: 22/95 | in line: 73
+2024-01-25 | 13:18:55.844 | INFO 	| 52:main | 0x74c0357bd73F40B660C5265b7a0eb1Eb40da330b | Account already use
+2024-01-25 | 13:18:56.846 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:18:57.847 | INFO 	| 44:main | work progress: 23/95 | in line: 72
+2024-01-25 | 13:18:58.849 | INFO 	| 52:main | 0x7Fa639fD74C89ca44675e082cB82AA338A35faD3 | Account already use
+2024-01-25 | 13:18:59.851 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:19:00.852 | INFO 	| 44:main | work progress: 24/95 | in line: 71
+2024-01-25 | 13:19:01.854 | INFO 	| 52:main | 0xF762F7f147194d23d68206e7557495B76c37E6d9 | Account already use
+2024-01-25 | 13:19:02.856 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:19:03.857 | INFO 	| 44:main | work progress: 25/95 | in line: 70
+2024-01-25 | 13:19:04.858 | INFO 	| 52:main | 0x955dB22865c871a0825273561dF2bE0F2098f9b4 | Account already use
+2024-01-25 | 13:19:05.860 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:19:06.862 | INFO 	| 44:main | work progress: 26/95 | in line: 69
+2024-01-25 | 13:19:07.864 | INFO 	| 52:main | 0x23451c620290Be64b560b474Fc979e9EE1e14407 | Account already use
+2024-01-25 | 13:19:08.865 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:19:09.866 | INFO 	| 44:main | work progress: 27/95 | in line: 68
+2024-01-25 | 13:19:10.872 | INFO 	| 52:main | 0xfFbe197C163af7987af759820096770c1295e528 | Account already use
+2024-01-25 | 13:19:11.873 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:19:12.875 | INFO 	| 44:main | work progress: 28/95 | in line: 67
+2024-01-25 | 13:19:13.877 | INFO 	| 52:main | 0x96A3D34dBE1a2D745A579b072f92794c25464afF | Account already use
+2024-01-25 | 13:19:14.878 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:19:15.879 | INFO 	| 44:main | work progress: 29/95 | in line: 66
+2024-01-25 | 13:19:16.882 | INFO 	| 52:main | 0x4A921955a3420967b0e78545425e796162337464 | Account already use
+2024-01-25 | 13:19:17.883 | INFO 	| 55:main | Go to the next account
+2024-01-25 | 13:19:18.885 | INFO 	| 44:main | work progress: 30/95 | in line: 65
+2024-01-25 | 13:19:19.886 | INFO 	| 52:main | 0x20381143C34B0847086e174e6E21390C37b861b5 | Account already use
