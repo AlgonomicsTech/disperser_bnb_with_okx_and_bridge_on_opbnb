@@ -1,3 +1,4 @@
+import logging
 import time
 from logo import print_ALGONOMICS
 from os.path import exists
@@ -37,7 +38,11 @@ def main():
     print()
 
     if software_method == 1:
+        counter = 0
         for to_address in address_list:
+            counter += 1
+            log.info(f"work progress: {counter}/{len(address_list)} | in line: {len(address_list) - counter}")
+            time.sleep(1)
             if is_account_passed('data/success_send.txt', to_address):
                 if make_withdrawal(to_address):
                     save_data('data/success_send.txt', to_address)
@@ -57,7 +62,11 @@ def main():
 
 
     elif software_method == 2:
+        counter = 0
         for private_key in private_keys_list:
+            counter += 1
+            log.info(f"work progress: {counter}/{len(private_keys_list)} | in line: {len(private_keys_list) - counter} ")
+            time.sleep(1)
             if is_account_passed('data/success_bridge.txt', private_key):
                 bridge_main(private_key)
             else:
@@ -68,15 +77,14 @@ def main():
                 print()
                 continue
             sleeping()
+            print()
+            print()
 
     else:
-        log.error("Unknown method, choose 1 or 2!")
-
+        log.warning("Unknown method, choose 1 or 2!")
 
     print()
-    log.success('Work completed successfully')
-    log.debug('Press Enter to exit...')
-    input()
+    log.debug('The work is completed..')
 
 
 if __name__ == '__main__':
